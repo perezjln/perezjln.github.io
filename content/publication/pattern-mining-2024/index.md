@@ -28,6 +28,29 @@ summary: Scalable differentiable pattern mining approach with coverage regulariz
 tags:
 - Pattern Mining
 - Deep Learning
+- Data Mining
+- Differentiable Programming
+- Regularization
+- Machine Learning
+- Scalable Algorithms
+- Large-Scale Data
+- Optimization
+
+keywords:
+- "Pattern Mining"
+- "Deep Learning"
+- "Data Mining"
+- "Differentiable Programming"
+- "Regularization"
+- "Machine Learning"
+- "Scalable Algorithms"
+- "Large-Scale Data"
+- "Optimization"
+- "Coverage Regularization"
+- "PKDD"
+- "Knowledge Discovery"
+
+featured: true
 - Optimization
 - Scalability
 

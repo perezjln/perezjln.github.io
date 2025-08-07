@@ -28,6 +28,28 @@ tags:
 - Deep Learning
 - Dialog Systems
 - Machine Reading
+- Natural Language Processing
+- Neural Networks
+- End-to-End Learning
+- Question Answering
+- Gating Mechanisms
+- State Tracking
+
+keywords:
+- "Memory Networks"
+- "Deep Learning"
+- "Dialog Systems"
+- "Machine Reading"
+- "Natural Language Processing"
+- "Neural Networks"
+- "End-to-End Learning"
+- "Question Answering"
+- "Gating Mechanisms"
+- "State Tracking"
+- "bAbI Dataset"
+- "DSTC Challenge"
+
+featured: true
 
 featured: true
 

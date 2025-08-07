@@ -38,14 +38,46 @@ sections:
   - block: collection
     id: publications
     content:
-      title: Publications
-      subtitle: Recent Research
+      title: Recent Publications
+      subtitle: Latest Research in AI, Machine Learning, and Robotics
+      text: |-
+        Exploring cutting-edge research in **Machine Learning**, **Deep Learning**, **Reinforcement Learning**, **Natural Language Processing**, **Robotics**, and **AI Systems**.
+        
+        **Recent Highlights:**
+        
+        ### 2025
+        **AKD: Adversarial Knowledge Distillation For Large Language Models Alignment on Coding tasks** | *Large Language Models, Knowledge Distillation, Code Generation*
+        
+        ### 2024
+        **Unsupervised Skill Discovery for Robotic Manipulation through Automatic Task Generation** | *Robotics, Skill Discovery, Manipulation*
+        
+        **SLIM: Skill Learning with Multiple Critics** | *Reinforcement Learning, Multi-Critic Networks*
+        
+        **DiffVersify: a Scalable Approach to Differentiable Pattern Mining** | *Pattern Mining, Deep Learning*
+        
+        ### 2023
+        **Safety‑Aware Unsupervised Skill Discovery** | *Safe AI, Skill Learning, Robotics*
+        
+        **LARG, Language‑based Automatic Reward and Goal Generation** | *NLP, Reward Learning, Language Models*
+        
+        ### Key Research Areas:
+        - **Machine Learning & Deep Learning:** Neural networks, optimization, representation learning
+        - **Reinforcement Learning:** Policy learning, skill discovery, safe AI, robotics control
+        - **Natural Language Processing:** Dialog systems, language models, text understanding
+        - **Computer Vision:** Visual representations, multimodal learning, robotics perception
+        - **Robotics:** Manipulation, locomotion, adaptive control systems
+        
+        [View All Publications →](/publication/)
       filters:
         folders:
           - publication
-        featured_only: false
+        featured_only: true
+        exclude_featured: false
+      design:
+        view: citation
+        columns: 1
     design:
-      view: citation
+      view: list
       background:
         color: white
   - block: collection

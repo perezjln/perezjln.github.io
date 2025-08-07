@@ -28,6 +28,27 @@ tags:
 - Computer Vision
 - Visual Representations
 - Caption Learning
+- Deep Learning
+- Multimodal Learning
+- Natural Language Processing
+- Self-Supervised Learning
+- Transfer Learning
+- Semantic Understanding
+
+keywords:
+- "Computer Vision"
+- "Visual Representations"
+- "Caption Learning"
+- "Deep Learning"
+- "Multimodal Learning"
+- "Natural Language Processing"
+- "Self-Supervised Learning"
+- "Transfer Learning"
+- "Semantic Understanding"
+- "Vision-Language Models"
+- "ECCV"
+
+featured: true
 - Multimodal Learning
 - Deep Learning
 

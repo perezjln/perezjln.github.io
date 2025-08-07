@@ -37,6 +37,8 @@ tags:
 
 keywords:
 - "Computer Vision"
+keywords:
+- "Computer Vision"
 - "Visual Representations"
 - "Caption Learning"
 - "Deep Learning"
@@ -49,10 +51,6 @@ keywords:
 - "ECCV"
 
 featured: true
-- Multimodal Learning
-- Deep Learning
-
-featured: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

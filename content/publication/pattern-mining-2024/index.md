@@ -37,6 +37,7 @@ tags:
 - Optimization
 
 keywords:
+keywords:
 - "Pattern Mining"
 - "Deep Learning"
 - "Data Mining"
@@ -51,10 +52,6 @@ keywords:
 - "Knowledge Discovery"
 
 featured: true
-- Optimization
-- Scalability
-
-featured: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

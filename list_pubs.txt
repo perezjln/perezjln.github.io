@@ -1,0 +1,91 @@
+
+### **2025**
+
+* Ilyas Oulkadda, Julien Perez: **AKD: Adversarial Knowledge Distillation For Large Language Models Alignment on Coding tasks.** CoRR abs/2505.06267 (2025) ([dblp.org][1])
+
+### **2024**
+
+* Paul Jansonnie, Bingbing Wu, Julien Perez, Jan Peters: **Unsupervised Skill Discovery for Robotic Manipulation through Automatic Task Generation.** Humanoids 2024; also preprint CoRR abs/2410.04855 ([dblp.org][1])
+* David Emukpere, Bingbing Wu, Julien Perez, Jean‑Michel Renders: **SLIM: Skill Learning with Multiple Critics.** ICRA 2024; also CoRR abs/2402.00823 ([dblp.org][1])
+* Kevin Galassi, Bingbing Wu, Julien Perez, Gianluca Palli, Jean‑Michel Renders: **Attention‑Based Cloth Manipulation from Model‑free Topological Representation.** ICRA 2024 ([dblp.org][1])
+* Thibaut Chataing, Julien Perez, Marc Plantevit, Céline Robardet: **DiffVersify: a Scalable Approach to Differentiable Pattern Mining with Coverage Regularization.** ECML/PKDD (6) 2024 ([dblp.org][1])
+
+### **2023**
+
+* Michel Aractingi, Pierre‑Alexandre Léziart, Thomas Flayols, Julien Perez, Tomi Silander, Philippe Souères: **A Hierarchical Scheme for Adapting Learned Quadruped Locomotion.** Humanoids 2023 ([dblp.org][1])
+* Sunin Kim, Jaewoon Kwon, Taeyoon Lee, Younghyo Park, Julien Perez: **Safety‑Aware Unsupervised Skill Discovery.** ICRA 2023 ([dblp.org][1])
+* Julien Perez, Denys Proux, Claude Roux, Michael Niemaz: **LARG, Language‑based Automatic Reward and Goal Generation.** CoRR abs/2306.10985 (2023) ([dblp.org][1])
+* Michel Aractingi, Pierre‑Alexandre Léziart, Thomas Flayols, Julien Perez, Tomi Silander, Philippe Souères: **Controlling the Solo12 Quadruped Robot with Deep Reinforcement Learning.** CoRR abs/2309.16683 (2023) ([dblp.org][1])
+
+### **2021**
+
+* Diana Nicoleta Popa, Julien Perez, James Henderson, Éric Gaussier: **Towards syntax‑aware token embeddings.** Nat. Lang. Eng. 27(6): 691–720 (2021) ([dblp.org][1])
+* Quentin Grail, Julien Perez, Éric Gaussier: **Globalizing BERT‑based Transformer Architectures for Long Document Summarization.** EACL 2021: 1792–1810 ([dblp.org][1])
+* Christopher R. Dance, Julien Perez, Théo Cachet: **Demonstration‑Conditioned Reinforcement Learning for Few‑Shot Imitation.** ICML 2021: 2376–2387 ([dblp.org][1])
+* Seungsu Kim, Julien Perez: **Learning Reachable Manifold and Inverse Mapping for a Redundant Robot manipulator.** ICRA 2021: 4731–4737 ([dblp.org][1])
+
+### **2020**
+
+* Mert Bülent Sariyildiz, Julien Perez, Diane Larlus: **Learning Visual Representations with Caption Annotations.** ECCV (8) 2020: 153–170; also CoRR abs/2008.01392 ([dblp.org][1])
+
+### **2019**
+
+* Chiori Hori, Julien Perez, et al.: **Overview of the sixth dialog system technology challenge: DSTC6.** Comput. Speech Lang. 55: 1–25 (2019) ([dblp.org][1])
+* Diana Nicoleta Popa, Julien Perez, et al.: **Implicit Discourse Relation Classification with Syntax‑Aware Contextualized Word Representations.** FLAIRS 2019: 203–208 ([dblp.org][1])
+* Koichiro Yoshino, Chiori Hori, Julien Perez, et al.: **Dialog System Technology Challenge 7.** CoRR abs/1901.03461 (2019) ([dblp.org][1])
+
+### **2018**
+
+* Quentin Grail, Julien Perez: **ReviewQA: a relational aspect‑based opinion reading dataset.** CoRR abs/1810.12196 (2018) ([dblp.org][1])
+
+### **2017**
+
+* Fei Liu, Julien Perez: **Gated End‑to‑End Memory Networks.** EACL (1) 2017: 1–10 ([dblp.org][1])
+* Julien Perez, Fei Liu: **Dialog state tracking, a machine reading approach using Memory Network.** EACL (1) 2017: 305–314 ([dblp.org][1])
+* Fei Liu, Julien Perez, Scott Nowson: **A Language‑independent and Compositional Model for Personality Trait Recognition from Short Texts.** EACL (1) 2017: 754–764 ([dblp.org][1])
+* Denys Proux, Claude Roux, Ágnes Sándor, Julien Perez: **Hybrid Feature Factored System for Scoring Extracted Passage Relevance in Regulatory Filings.** DSMM\@SIGMOD 2017: 11:1–11:6 ([dblp.org][1])
+* Julien Perez, Tomi Silander: **Non‑Markovian Control with Gated End‑to‑End Memory Policy Networks.** CoRR abs/1705.10993 (2017) ([dblp.org][1])
+
+### **2016**
+
+* Julien Perez: **Spectral decomposition method of dialog state tracking via collective matrix factorization.** Dialogue Discourse 7(3): 34–46 (2016) ([dblp.org][1])
+* Nouha Sghaier, Julien Perez, Brice Augustin, Abdelhamid Mellouk: **Energy‑aware probing period dimensioning algorithms for mobile WSN‑HEAP.** Int. J. Sens. Networks 21(4): 252–261 (2016) ([dblp.org][1])
+* Fei Liu, Julien Perez, Scott Nowson: **A Recurrent and Compositional Model for Personality Trait Recognition from Short Texts.** PEOPLES\@COLING 2016: 20–29 ([dblp.org][1])
+* Caroline Brun, Julien Perez, Claude Roux: **XRCE at SemEval‑2016 Task 5: Feedbacked Ensemble Modeling on Syntactico‑Semantic Knowledge for Aspect‑Based Sentiment Analysis.** SemEval\@NAACL‑HLT 2016: 277–281 ([dblp.org][1])
+* Julien Perez: **Dialog state tracking, a machine reading approach using a memory‑enhanced neural network.** CoRR abs/1606.04052 (2016) ([dblp.org][1])
+* Julien Perez: **Spectral decomposition method of dialog state tracking via collective matrix factorization.** CoRR abs/1606.05286 (2016) ([dblp.org][1])
+* Fei Liu, Julien Perez: **Gated End‑to‑End Memory Networks.** CoRR abs/1610.04211 (2016) ([dblp.org][1])
+* Fei Liu, Julien Perez, Scott Nowson: **A Language‑independent and Compositional Model for Personality Trait Recognition from Short Texts.** CoRR abs/1610.04345 (2016) ([dblp.org][1])
+
+### **2015**
+
+* Scott Nowson, Julien Perez, Caroline Brun, Shachar Mirkin, Claude Roux: **XRCE Personal Language Analytics Engine…** CLEF (Working Notes) 2015 ([dblp.org][1])
+* Shachar Mirkin, Scott Nowson, Caroline Brun, Julien Perez: **Motivating Personality‑aware Machine Translation.** EMNLP 2015: 1102–1108 ([dblp.org][1])
+* Guillaume Bouchard, Théo Trouillon, Julien Perez, Adrien Gaidon: **Accelerating Stochastic Gradient Descent via Online Learning to Sample.** CoRR abs/1506.09016 (2015) ([dblp.org][1])
+
+### **2014**
+
+* Hai Anh Tran, Said Hoceini, Abdelhamid Mellouk, Julien Perez, Sherali Zeadally: **QoE‑Based Server Selection for Content Distribution Networks.** IEEE Trans. Computers 63(11): 2803–2815 (2014) ([dblp.org][1])
+
+### **2013**
+
+* Sami Souihi, Julien Perez, Said Hoceini, Abdelhamid Mellouk: **A robust, adaptive and hierarchical knowledge dissemination architecture.** GLOBECOM 2013: 1489–1494 ([dblp.org][1])
+
+### **2012**
+
+* Hai Anh Tran, Abdelhamid Mellouk, Said Hoceini, Julien Perez: **User‑centric Content Distribution Network architecture.** ICUMT 2012: 343–350 ([dblp.org][1])
+
+### **2010**
+
+* Julien Perez, Cécile Germain‑Renaud, Balázs Kégl, Charles Loomis: **Multi‑objective Reinforcement Learning for Responsive Grids.** J. Grid Comput. 8(3): 473–492 (2010) ([dblp.org][1])
+* Romaric Gaudel, Jean‑Baptiste Hoock, Julien Perez, Nataliya Sokolovska, Olivier Teytaud: **A Principled Method for Exploiting Opening Books.** Computers and Games 2010: 136–144 ([dblp.org][1])
+
+### **2009**
+
+* Pierre Audouard, Guillaume Chaslot, Jean‑Baptiste Hoock, Julien Perez, Arpad Rimmel, Olivier Teytaud: **Grid Coevolution for Adaptive Simulations…** EvoWorkshops 2009: 323–332 ([dblp.org][1])
+* Xiangliang Zhang, Cyril Furtlehner, Julien Perez, Cécile Germain‑Renaud, Michèle Sebag: **Toward autonomic grids: analyzing the job flow with affinity streaming.** KDD 2009: 987–996 ([dblp.org][1])
+
+### **2008**
+
+* Julien Perez, Cécile Germain‑Renaud, Balázs Kégl, Charles Loomis: **Grid Differentiated Services: A Reinforcement Learning Approach.** CCGRID 2008: 287–294 ([dblp.org][1])
+* Julien Perez, Cécile Germain‑Renaud, Balázs Kégl, Charles Loomis: **Utility‑Based Reinforcement Learning for Reactive Grids.** ICAC 2008: 205–206 ([dblp.org][1])

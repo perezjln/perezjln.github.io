@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Stochastic Gradient Descent | Julien Perez - Machine Learning Research</title>
+    <title>Stochastic Gradient Descent | Julien Perez - Machine Learning &amp; AI Research Professor</title>
     <link>http://localhost:1313/tags/stochastic-gradient-descent/</link>
       <atom:link href="http://localhost:1313/tags/stochastic-gradient-descent/index.xml" rel="self" type="application/rss+xml" />
     <description>Stochastic Gradient Descent</description>

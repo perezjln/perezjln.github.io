@@ -35,7 +35,7 @@ sections:
       background:
         color: white
         text_color_light: false
-  - block: collection
+  - block: markdown
     id: publications
     content:
       title: Recent Publications
@@ -66,16 +66,7 @@ sections:
         - **Robotics:** Manipulation, locomotion, adaptive control systems
         
         [View All Publications →](/publication/)
-      filters:
-        folders:
-          - publication
-        featured_only: true
-        exclude_featured: false
-      design:
-        view: citation
-        columns: 1
     design:
-      view: list
       background:
         color: white
   - block: collection

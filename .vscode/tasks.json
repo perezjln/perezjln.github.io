@@ -1,0 +1,25 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Hugo Dev Server",
+			"type": "shell",
+			"command": "hugo",
+			"args": [
+				"server",
+				"--buildDrafts",
+				"--port",
+				"1313"
+			],
+			"group": "build",
+			"isBackground": true,
+			"problemMatcher": [],
+			"presentation": {
+				"echo": true,
+				"reveal": "always",
+				"focus": false,
+				"panel": "new"
+			}
+		}
+	]
+}

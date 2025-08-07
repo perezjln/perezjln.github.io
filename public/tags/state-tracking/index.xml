@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>State Tracking | Julien Perez - Machine Learning Research</title>
+    <link>http://localhost:1313/tags/state-tracking/</link>
+      <atom:link href="http://localhost:1313/tags/state-tracking/index.xml" rel="self" type="application/rss+xml" />
+    <description>State Tracking</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>State Tracking</title>
+      <link>http://localhost:1313/tags/state-tracking/</link>
+    </image>
+    
+    <item>
+      <title>Dialog state tracking, a machine reading approach using Memory Network</title>
+      <link>http://localhost:1313/publication/dialog-state-tracking/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dialog-state-tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spectral decomposition method of dialog state tracking via collective matrix factorization</title>
+      <link>http://localhost:1313/publication/spectral-dialog-tracking/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/spectral-dialog-tracking/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

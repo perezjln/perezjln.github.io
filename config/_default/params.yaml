@@ -1,0 +1,93 @@
+# SITE SETUP
+# Guide: https://docs.hugoblox.com/tutorial/
+# Documentation: https://docs.hugoblox.com/
+# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+
+# Appearance
+appearance:
+  mode: light
+  color: blue
+
+# SEO
+marketing:
+  seo:
+    site_type: Person
+    local_business_type: ''
+    org_name: 'EPITA & IONIS Education Group'
+    description: 'Julien Perez - Full Professor specializing in Machine Learning, Deep Learning, Reinforcement Learning, Natural Language Processing, and Robotics. Leading AI research and pedagogy innovation at EPITA and IONIS Education Group.'
+    twitter: 'perezjln'
+    keywords: 'Machine Learning, Deep Learning, Reinforcement Learning, Natural Language Processing, Dialog Systems, AI Research, Computer Science Professor, EPITA, IONIS, Julien Perez'
+    image: 'avatar.jpg'
+    schema_type: 'Person'
+    author: 'Julien Perez'
+    google_site_verification: ''
+    bing_site_verification: ''
+    yandex_site_verification: ''
+  analytics:
+    google_analytics: ''
+    google_tag_manager: ''
+    baidu_tongji: ''
+    plausible: ''
+    fathom: ''
+    pirsch: ''
+    microsoft_clarity: ''
+  verification:
+    google: ''
+    baidu: ''
+    bing: ''
+    yandex: ''
+
+# Site header
+header:
+  navbar:
+    enable: false
+    blox: ""
+    fixed_to_top: false
+    show_search: false
+    show_theme_chooser: false
+    logo:
+      text: ""
+
+# Site footer
+footer:
+  copyright:
+    notice: '© {year} Me. This work is licensed under {license}'
+    license:
+      enable: true
+      allow_derivatives: false
+      share_alike: true
+      allow_commercial: false
+
+# Localization
+locale:
+  date_format: 'Jan 2, 2006'
+  time_format: '3:04 PM'
+
+# Site features
+features:
+  syntax_highlighter:
+    theme_light: github-light
+    theme_dark: github-dark
+  math:
+    enable: true
+  privacy_pack:
+    enable: false
+  repository:
+    url: 'https://github.com/perezjln/perezjln.github.io'
+    content_dir: content
+    branch: main
+  comment:
+    provider: ''
+  search:
+    provider: wowchemy
+    algolia:
+      app_id: ''
+      api_key: ''
+      index_name: ''
+  map:
+    provider: 'mapnik'
+    api_key: ''
+    zoom: 15
+
+# Custom CSS
+custom_css: ["css/custom.css"]

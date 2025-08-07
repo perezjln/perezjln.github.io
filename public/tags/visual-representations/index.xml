@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Visual Representations | Julien Perez - Machine Learning Research</title>
+    <link>http://localhost:1313/tags/visual-representations/</link>
+      <atom:link href="http://localhost:1313/tags/visual-representations/index.xml" rel="self" type="application/rss+xml" />
+    <description>Visual Representations</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Visual Representations</title>
+      <link>http://localhost:1313/tags/visual-representations/</link>
+    </image>
+    
+    <item>
+      <title>Learning Visual Representations with Caption Annotations</title>
+      <link>http://localhost:1313/publication/visual-representations-captions-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/visual-representations-captions-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+changefreq: weekly
+priority: 0.5
+filename: sitemap.xml
+
+# Override settings for specific sections
+overrides:
+  - path: "/"
+    priority: 1.0
+    changefreq: daily
+  - path: "/publication/**"
+    priority: 0.8
+    changefreq: monthly
+  - path: "/teaching/**"
+    priority: 0.7
+    changefreq: monthly
+  - path: "/post/**"
+    priority: 0.6
+    changefreq: weekly
+  - path: "/author/**"
+    priority: 0.9
+    changefreq: weekly
+
+# Exclude patterns
+exclude:
+  - "/legacy_website/**"
+  - "/themes/**"
+  - "/resources/**"
+  - "/_gen/**"

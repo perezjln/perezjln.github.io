@@ -1,0 +1,2 @@
+# Use the config directory for configuration
+# This file is intentionally minimal as Hugo Blox uses hugo.yaml in config/_default/

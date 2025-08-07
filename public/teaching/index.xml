@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teaching | Julien Perez - Machine Learning Research</title>
+    <link>http://localhost:1313/teaching/</link>
+      <atom:link href="http://localhost:1313/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <description>Teaching</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Teaching</title>
+      <link>http://localhost:1313/teaching/</link>
+    </image>
+    
+    <item>
+      <title>Graduate Level Instruction (2017 - Present)</title>
+      <link>http://localhost:1313/teaching/graduate-instruction/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/graduate-instruction/</guid>
+      <description>&lt;h2 id=&#34;graduate-level-instruction-2017---present&#34;&gt;Graduate Level Instruction (2017 - Present)&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Total Contact Hours:&lt;/strong&gt; 150+&lt;/p&gt;
+&lt;h3 id=&#34;epita-current&#34;&gt;EPITA (Current)&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Courses:&lt;/strong&gt; Machine Learning Foundations, Reinforcement Learning, NLP, LLMs&lt;/p&gt;
+&lt;h3 id=&#34;centralesupélec&#34;&gt;CentraleSupélec&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Course:&lt;/strong&gt; Advanced Machine Learning&lt;/p&gt;
+&lt;h3 id=&#34;université-technologique-de-compiègne&#34;&gt;Université Technologique de Compiègne&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Course:&lt;/strong&gt; Deep Learning Applications&lt;/p&gt;
+&lt;h3 id=&#34;université-grenoble-alpes&#34;&gt;Université Grenoble Alpes&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Course:&lt;/strong&gt; Research Methods in AI&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Undergraduate Instruction (2006 - 2013)</title>
+      <link>http://localhost:1313/teaching/undergraduate-instruction/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/undergraduate-instruction/</guid>
+      <description>&lt;h2 id=&#34;undergraduate-instruction-2006---2013&#34;&gt;Undergraduate Instruction (2006 - 2013)&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Total Contact Hours:&lt;/strong&gt; 850+&lt;/p&gt;
+&lt;h3 id=&#34;university-of-paris-est-créteil&#34;&gt;University of Paris-Est Créteil&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Courses:&lt;/strong&gt; Signal Processing, Probability, Statistics
+&lt;strong&gt;Teaching Hours:&lt;/strong&gt; 768+&lt;/p&gt;
+&lt;h3 id=&#34;iut-dorsay&#34;&gt;IUT d&amp;rsquo;Orsay&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Courses:&lt;/strong&gt; OOP, Database Design
+&lt;strong&gt;Student Projects:&lt;/strong&gt; 15+ supervised&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

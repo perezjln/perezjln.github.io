@@ -1,0 +1,317 @@
+% Academic CV Template - Refined and Professional
+% Modern, clean design optimized for academic positions
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\usepackage{multicol}
+\usepackage{geometry}
+\usepackage{fontawesome5}
+\input{glyphtounicode}
+
+% Font selection for professional appearance
+\usepackage{lmodern}
+\usepackage[T1]{fontenc}
+
+% Page setup
+\geometry{
+    top=0.8in,
+    bottom=0.8in,
+    left=0.7in,
+    right=0.7in
+}
+
+\pagestyle{fancy}
+\fancyhf{} 
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Hyperlink setup
+\hypersetup{
+    colorlinks=true,
+    linkcolor=black,
+    filecolor=black,      
+    urlcolor=blue,
+    pdftitle={Julien Perez - Academic CV},
+    pdfauthor={Julien Perez},
+    pdfsubject={Academic Curriculum Vitae},
+}
+
+\urlstyle{same}
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Section formatting
+\titleformat{\section}{
+  \vspace{8pt}\scshape\raggedright\large\bfseries
+}{}{0em}{}[\color{black}\titlerule\vspace{-5pt}]
+
+\pdfgentounicode=1
+
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-1pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & \textbf{#2} \\
+      \textit{#3} & \textit{#4} \\
+    \end{tabular*}\vspace{-8pt}
+}
+
+\newcommand{\resumeEducation}[4]{
+  \vspace{-1pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & \textbf{#2} \\
+      {#3} & {#4} \\
+    \end{tabular*}\vspace{-8pt}
+}
+
+\newcommand{\resumePublication}[2]{%
+  \item \small{\textbf{#1} (\textit{#2})}%
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.1in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}[leftmargin=0.1in]}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+\begin{document}
+
+% Header
+\begin{center}
+    {\LARGE\bfseries Julien Perez} \\
+    \vspace{8pt}
+    \begin{tabular}{c c c}
+        \faIcon{map-marker-alt} 5, rue d'Italie, Paris 75013, France & 
+        \faIcon{envelope} \href{mailto:perez.jln@gmail.com}{perez.jln@gmail.com} & 
+        \faIcon{graduation-cap} \href{https://scholar.google.fr/citations?user=XneKjCsAAAAJ}{Google Scholar}
+    \end{tabular}
+\end{center}
+
+% Professional Summary
+\small{Seasoned AI research leader with 15+ years of experience in academia and industry. Expertise in reinforcement learning, NLP, and robotics. Proven track record of translating research into impactful products. Currently leading AI \& Pedagogy research at IONIS Education Group.}
+
+% Education
+\section{Education}
+\resumeSubHeadingListStart
+    \resumeEducation
+        {Habilitation à Diriger des Recherches (HDR)}{2025}
+        {Contributions to Differential Decisions, Reasoning, and Common-Sense}
+        {University Grenoble Alpes, France}
+    \resumeEducation
+        {Ph.D. in Computer Science}{2010}
+        {Thesis: Reinforcement Learning on Non-Markovian Decision Processes}
+        {University Paris-Sud, France}
+    \resumeEducation
+        {M.Sc. in Mathematics and Machine Learning}{2006}
+        {Specialization in Applied Mathematics and Statistical Learning}
+        {University Paris-Dauphine, France}
+    \resumeEducation
+        {Engineering Diploma (M.Sc. equivalent)}{2005}
+        {Computer Science and Applied Mathematics}
+        {EPITA, Paris, France}
+\resumeSubHeadingListEnd
+
+% Professional Experience
+\section{Professional Experience}
+\resumeSubHeadingListStart
+    \resumeSubheading
+        {Head of AI \& Pedagogy Research Program}{January 2025 -- Present}
+        {IONIS Education Group}{France}
+        \resumeItemListStart
+            \resumeItem{Lead a team of 6 researchers and 30 educators in developing AI-driven educational tools}
+            \resumeItem{Developed an automatic code essay evaluation platform, boosting grading efficiency by 40\%}
+            \resumeItem{Architected predictive models for early student dropout detection}
+            \resumeItem{Coordinated with product teams to integrate research into learning management systems}
+        \resumeItemListEnd
+
+    \resumeSubheading
+        {Full Professor}{October 2023 -- Present}
+        {EPITA}{Paris, France}
+        \resumeItemListStart
+            \resumeItem{Lead research in imitation learning, reinforcement learning, and LLMs for robotics and coding}
+            \resumeItem{Teach graduate courses in machine learning, reinforcement learning, NLP, and LLMs}
+            \resumeItem{Supervise Ph.D. students and coordinate industry research collaborations}
+            \resumeItem{Develop curriculum for emerging AI technologies}
+        \resumeItemListEnd
+
+    \resumeSubheading
+        {Research Team Lead, Robot Learning}{April 2022 -- October 2023}
+        {Naver Labs Europe}{Grenoble, France}
+        \resumeItemListStart
+            \resumeItem{Managed a team of 8 researchers in robotic learning and manipulation}
+            \resumeItem{Integrated large language models with robotic control systems}
+            \resumeItem{Developed novel imitation learning algorithms for complex tasks}
+            \resumeItem{Established collaborations with leading robotics institutions}
+        \resumeItemListEnd
+
+    \resumeSubheading
+        {Research Team Lead, Machine Learning \& Optimization}{October 2017 -- April 2022}
+        {Naver Labs Europe}{Grenoble, France}
+        \resumeItemListStart
+            \resumeItem{Directed a team of 12 researchers across machine reading, RL, and optimization}
+            \resumeItem{Achieved top performance on machine reading comprehension benchmarks}
+            \resumeItem{Led large-scale stochastic optimization projects for search and recommendation}
+            \resumeItem{Mentored junior researchers and facilitated knowledge transfer}
+        \resumeItemListEnd
+
+    \resumeSubheading
+        {Research Scientist}{October 2013 -- October 2017}
+        {Xerox Research Centre Europe}{Grenoble, France}
+        \resumeItemListStart
+            \resumeItem{Conducted research in deep reinforcement learning and active learning}
+            \resumeItem{Filed 17 patents in machine learning, NLP, and recommender systems}
+            \resumeItem{Collaborated with product teams to commercialize research innovations}
+            \resumeItem{Published influential work on memory networks and dialog state tracking}
+        \resumeItemListEnd
+
+    \newpage
+    \resumeSubheading
+        {Research Assistant \& Lecturer}{October 2011 -- October 2013}
+        {University of Paris-Est Créteil}{France}
+        \resumeItemListStart
+            \resumeItem{Co-supervised two Ph.D. candidates in reinforcement learning for wireless networks}
+            \resumeItem{Taught machine learning and signal processing courses (768+ hours)}
+            \resumeItem{Developed practical labs and supervised student projects}
+        \resumeItemListEnd
+
+    \resumeSubheading
+        {Post-doctoral Researcher}{September 2010 -- October 2011}
+        {Telecom-ParisTech}{France}
+        \resumeItemListStart
+            \resumeItem{Advanced reinforcement learning for SLAM in autonomous underwater vehicles}
+            \resumeItem{Published research on navigation algorithms for challenging environments}
+        \resumeItemListEnd
+\resumeSubHeadingListEnd
+
+% Selected Publications
+\section{Selected Publications}
+\begin{multicols}{2}
+\begin{itemize}[leftmargin=0.1in, itemsep=0pt]
+    \resumePublication{Chataing, T., Perez, J., Plantevit, M., \& Robardet, C. (2024). Scalable Approach to Differentiable Pattern Mining with Coverage Regularization.}{PKDD}
+    \resumePublication{Lee, T., \& Perez, J. (2023). Safe Skill Discovery for Robotic Manipulation.}{ICRA}
+    \resumePublication{Kim, S., \& Perez, J. (2022). Reachable Manifold and Inverse Mapping Training for Robots.}{ICRA}
+    \resumePublication{Cachet, T., Dance, C., \& Perez, J. (2021). Demonstration Conditioned Reinforcement Learning for Few-shot Imitation.}{ICML}
+    \resumePublication{Sariyildiz, M.B., Perez, J., \& Larlus, D. (2020). Learning Visual Representations with Caption Annotations.}{ECCV}
+    \resumePublication{Liu, F., \& Perez, J. (2017). Gated End-to-End Memory Networks.}{EACL}
+    \resumePublication{Perez, J., \& Liu, F. (2017). Dialog State Tracking: A Machine Reading Approach Using Memory Networks.}{EACL}
+\end{itemize}
+\end{multicols}
+
+% Teaching Experience
+\section{Teaching Experience}
+\resumeSubHeadingListStart
+    \resumeSubheading
+        {Graduate Level Instruction}{2017 -- Present}
+        {Courses: Deep Learning, Reinforcement Learning, NLP}{150+ contact hours}
+        \resumeItemListStart
+            \resumeItem{CentraleSupélec: Advanced Machine Learning}
+            \resumeItem{Université Technologique de Compiègne: Deep Learning Applications}
+            \resumeItem{Université Grenoble Alpes: Research Methods in AI}
+            \resumeItem{EPITA: Machine Learning Foundations, NLP, LLMs}
+        \resumeItemListEnd
+
+    \resumeSubheading
+        {Undergraduate Instruction}{2006 -- 2013}
+        {Courses: Signal Processing, Statistics, Programming}{850+ contact hours}
+        \resumeItemListStart
+            \resumeItem{University Paris-Est Créteil: Signal Processing, Probability, Statistics}
+            \resumeItem{IUT d'Orsay: OOP, Database Design}
+            \resumeItem{Supervised 15+ undergraduate projects}
+        \resumeItemListEnd
+\resumeSubHeadingListEnd
+
+% Technical Skills
+\section{Technical Expertise}
+\resumeSubHeadingListStart
+    \resumeSubheading
+        {Research Areas}{}{}{}
+        \small{Deep Learning $\cdot$ Reinforcement Learning $\cdot$ NLP $\cdot$ LLMs $\cdot$ Computer Vision $\cdot$ Robotics $\cdot$ Active Learning $\cdot$ Statistical Relational Learning}
+        
+    \resumeSubheading
+        {Technical Skills}{}{}{}
+        \small{PyTorch $\cdot$ JAX $\cdot$ TensorFlow $\cdot$ Hugging Face $\cdot$ MLflow $\cdot$ Scikit-learn $\cdot$ Python $\cdot$ C/C++ $\cdot$ Java $\cdot$ Git $\cdot$ Docker $\cdot$ CUDA}
+        
+    \resumeSubheading
+        {Languages}{}{}{}
+        \small{French (Native) $\cdot$ English (Fluent) }
+\resumeSubHeadingListEnd
+
+% Professional Service
+\section{Professional Service \& Leadership}
+\resumeSubHeadingListStart
+    \resumeSubheading
+        {Workshop Co-organizer}{2021 -- Present}
+        {Robot Learning Workshop, NeurIPS}{}
+        \resumeItemListStart
+            \resumeItem{Coordinated program committee and speaker selection}
+            \resumeItem{Increased participation from underrepresented groups}
+            \resumeItem{Organized virtual and hybrid formats for global participation}
+        \resumeItemListEnd
+
+    \resumeSubheading
+        {Challenge Co-organizer}{2015 -- 2017}
+        {Dialog System Technology Challenge, ACL}{}
+        \resumeItemListStart
+            \resumeItem{Designed evaluation metrics and datasets for dialog state tracking}
+            \resumeItem{Coordinated international competition with 20+ teams}
+            \resumeItem{Established standardized benchmarks in the field}
+        \resumeItemListEnd
+
+    \resumeSubheading
+        {Editorial \& Review Activities}{Ongoing}{}{}
+        \resumeItemListStart
+            \resumeItem{Reviewer for NeurIPS, ICML, ICLR, AAAI, ACL, EMNLP, ICRA}
+            \resumeItem{Program committee member for AI and robotics conferences}
+            \resumeItem{Grant reviewer for national and international agencies}
+        \resumeItemListEnd
+\resumeSubHeadingListEnd
+
+% Awards and Recognition
+\section{Awards \& Recognition}
+\resumeSubHeadingListStart
+    \resumeSubheading
+        {State-of-the-Art Performance Achievement}{2017}
+        {FAIR bAbI Reading Comprehension Tasks}{}
+        \resumeItemListStart
+            \resumeItem{Achieved leading performance using novel Gated Memory Networks}
+        \resumeItemListEnd
+        
+    \resumeSubheading
+        {1st Place, SemEval International Challenge}{2016}
+        {Aspect-Based Sentiment Analysis (Task 5)}{}
+        \resumeItemListStart
+            \resumeItem{Top performance in English and French sentiment analysis}
+        \resumeItemListEnd
+        
+    \resumeSubheading
+        {ChessBase Best Publication Award}{2009}
+        {Contributions to Monte Carlo Tree Search}{}
+        \resumeItemListStart
+            \resumeItem{Recognition for contributions to the Mogo UCT-based Go playing system}
+        \resumeItemListEnd
+\resumeSubHeadingListEnd
+
+% Patents and IP
+\section{Intellectual Property}
+\small{Holder of 17 granted patents in machine learning, NLP, and recommender systems. Innovations include advancements in search, dialog systems, and automated reasoning, with applications in large-scale commercial systems.}
+
+\end{document}

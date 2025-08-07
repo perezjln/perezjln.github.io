@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NLP | Julien Perez - Machine Learning Research</title>
+    <link>http://localhost:1313/tags/nlp/</link>
+      <atom:link href="http://localhost:1313/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
+    <description>NLP</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>NLP</title>
+      <link>http://localhost:1313/tags/nlp/</link>
+    </image>
+    
+    <item>
+      <title>Graduate Level Instruction</title>
+      <link>http://localhost:1313/teaching/graduate-instruction/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/graduate-instruction/</guid>
+      <description>&lt;h2 id=&#34;graduate-level-instruction-2017---present&#34;&gt;Graduate Level Instruction (2017 - Present)&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Total Teaching Hours:&lt;/strong&gt; 150+ contact hours&lt;/p&gt;
+&lt;h3 id=&#34;current-institutions&#34;&gt;Current Institutions&lt;/h3&gt;
+&lt;h4 id=&#34;epita-2023---present&#34;&gt;EPITA (2023 - Present)&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Machine Learning Foundations&lt;/strong&gt;: Core principles of ML, optimization, and statistical learning&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Reinforcement Learning&lt;/strong&gt;: Advanced RL algorithms, policy optimization, and multi-agent systems&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Natural Language Processing&lt;/strong&gt;: Modern NLP techniques, transformers, and language models&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Large Language Models&lt;/strong&gt;: Architecture, training, fine-tuning, and applications of LLMs&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;centralesupélec&#34;&gt;CentraleSupélec&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Advanced Machine Learning&lt;/strong&gt;: Graduate-level course covering state-of-the-art ML techniques&lt;/li&gt;
+&lt;li&gt;Focus on theoretical foundations and practical applications in real-world scenarios&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;université-technologique-de-compiègne&#34;&gt;Université Technologique de Compiègne&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Deep Learning Applications&lt;/strong&gt;: Hands-on course in deep learning with focus on computer vision and NLP&lt;/li&gt;
+&lt;li&gt;Practical labs using PyTorch and modern deep learning frameworks&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;université-grenoble-alpes&#34;&gt;Université Grenoble Alpes&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Research Methods in AI&lt;/strong&gt;: Graduate seminar on conducting AI research&lt;/li&gt;
+&lt;li&gt;Supervision of research projects and thesis work&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;teaching-philosophy&#34;&gt;Teaching Philosophy&lt;/h3&gt;
+&lt;p&gt;My teaching approach emphasizes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Theory-Practice Balance&lt;/strong&gt;: Combining rigorous theoretical foundations with hands-on implementation&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Current Research Integration&lt;/strong&gt;: Incorporating latest research developments into coursework&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Industry Relevance&lt;/strong&gt;: Connecting academic concepts to real-world applications&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Interactive Learning&lt;/strong&gt;: Encouraging student participation and collaborative problem-solving&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;course-development&#34;&gt;Course Development&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Developed new curriculum for emerging AI technologies including LLMs and robotic learning&lt;/li&gt;
+&lt;li&gt;Created practical labs and programming assignments using modern frameworks (PyTorch, JAX, Hugging Face)&lt;/li&gt;
+&lt;li&gt;Integrated industry case studies and real-world problem-solving scenarios&lt;/li&gt;
+&lt;li&gt;Designed capstone projects connecting students with ongoing research initiatives&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;student-supervision&#34;&gt;Student Supervision&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;PhD Students&lt;/strong&gt;: Active supervision of doctoral candidates in machine learning and robotics&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Master&amp;rsquo;s Projects&lt;/strong&gt;: 15+ undergraduate and graduate project supervisions&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Research Collaborations&lt;/strong&gt;: Coordinating student involvement in industry research partnerships&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

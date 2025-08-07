@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Optimization | Julien Perez - Machine Learning Research</title>
+    <link>http://localhost:1313/tags/optimization/</link>
+      <atom:link href="http://localhost:1313/tags/optimization/index.xml" rel="self" type="application/rss+xml" />
+    <description>Optimization</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Optimization</title>
+      <link>http://localhost:1313/tags/optimization/</link>
+    </image>
+    
+    <item>
+      <title>Scalable Approach to Differentiable Pattern Mining with Coverage Regularization</title>
+      <link>http://localhost:1313/publication/pattern-mining-2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/pattern-mining-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online Learning to Sample</title>
+      <link>http://localhost:1313/publication/online-learning-sample/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/online-learning-sample/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

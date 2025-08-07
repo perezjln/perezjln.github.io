@@ -1,0 +1,26 @@
+{
+  "name": "Julien Perez - Machine Learning & AI Research Professor",
+  "short_name": "Julien Perez",
+  "description": "Personal academic website of Julien Perez, Full Professor specializing in Machine Learning, Deep Learning, Reinforcement Learning, and AI Research",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#1f2937",
+  "background_color": "#ffffff",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png", 
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["education", "academic", "research", "technology"],
+  "lang": "en-US",
+  "scope": "/",
+  "prefer_related_applications": false
+}

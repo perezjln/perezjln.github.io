@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Statistics | Julien Perez - Machine Learning Research</title>
+    <link>http://localhost:1313/tags/statistics/</link>
+      <atom:link href="http://localhost:1313/tags/statistics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Statistics</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2006 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Statistics</title>
+      <link>http://localhost:1313/tags/statistics/</link>
+    </image>
+    
+    <item>
+      <title>Undergraduate Instruction</title>
+      <link>http://localhost:1313/teaching/undergraduate-instruction/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/undergraduate-instruction/</guid>
+      <description>&lt;h2 id=&#34;undergraduate-instruction-2006---2013&#34;&gt;Undergraduate Instruction (2006 - 2013)&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Total Teaching Hours:&lt;/strong&gt; 850+ contact hours&lt;/p&gt;
+&lt;h3 id=&#34;university-of-paris-est-créteil-2011---2013&#34;&gt;University of Paris-Est Créteil (2011 - 2013)&lt;/h3&gt;
+&lt;h4 id=&#34;core-courses-taught&#34;&gt;Core Courses Taught&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Signal Processing&lt;/strong&gt;: Digital signal processing, Fourier analysis, filter design&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Probability and Statistics&lt;/strong&gt;: Statistical inference, hypothesis testing, regression analysis&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Machine Learning Foundations&lt;/strong&gt;: Introduction to supervised and unsupervised learning&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;teaching-responsibilities&#34;&gt;Teaching Responsibilities&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Co-supervised two Ph.D. candidates in reinforcement learning for wireless networks&lt;/li&gt;
+&lt;li&gt;Developed and delivered 768+ hours of instruction across multiple courses&lt;/li&gt;
+&lt;li&gt;Created practical laboratory exercises and hands-on programming assignments&lt;/li&gt;
+&lt;li&gt;Supervised 15+ undergraduate research projects&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;iut-dorsay-2006---2011&#34;&gt;IUT d&amp;rsquo;Orsay (2006 - 2011)&lt;/h3&gt;
+&lt;h4 id=&#34;technical-courses&#34;&gt;Technical Courses&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Object-Oriented Programming&lt;/strong&gt;: Java, C++, software design patterns&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Database Design&lt;/strong&gt;: SQL, relational database concepts, database optimization&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Software Engineering&lt;/strong&gt;: Development methodologies, version control, testing&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;course-development&#34;&gt;Course Development&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Designed comprehensive programming curricula for computer science students&lt;/li&gt;
+&lt;li&gt;Created practical labs emphasizing real-world software development skills&lt;/li&gt;
+&lt;li&gt;Developed assessment methods combining theoretical knowledge with practical application&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;teaching-approach&#34;&gt;Teaching Approach&lt;/h3&gt;
+&lt;h4 id=&#34;pedagogical-methods&#34;&gt;Pedagogical Methods&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Hands-On Learning&lt;/strong&gt;: Emphasis on practical programming and problem-solving&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Project-Based Learning&lt;/strong&gt;: Students work on real-world projects throughout the semester&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Incremental Complexity&lt;/strong&gt;: Building from fundamental concepts to advanced applications&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Industry Preparation&lt;/strong&gt;: Focus on skills directly applicable in professional settings&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;student-support&#34;&gt;Student Support&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Regular office hours for individual student consultation&lt;/li&gt;
+&lt;li&gt;Collaborative learning environments encouraging peer-to-peer knowledge sharing&lt;/li&gt;
+&lt;li&gt;Mentorship for students interested in pursuing graduate studies&lt;/li&gt;
+&lt;li&gt;Career guidance and industry connection facilitation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;impact-and-outcomes&#34;&gt;Impact and Outcomes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Successfully prepared hundreds of students for careers in technology and engineering&lt;/li&gt;
+&lt;li&gt;Many former students have pursued advanced degrees in machine learning and AI&lt;/li&gt;
+&lt;li&gt;Established lasting connections between academic curriculum and industry needs&lt;/li&gt;
+&lt;li&gt;Contributed to curriculum modernization efforts across multiple institutions&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

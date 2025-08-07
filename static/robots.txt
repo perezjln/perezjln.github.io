@@ -1,0 +1,20 @@
+User-agent: *
+Allow: /
+
+# Allow crawling of main content areas
+Allow: /publication/
+Allow: /teaching/
+Allow: /post/
+Allow: /author/
+
+# Disallow crawling of development and build files
+Disallow: /legacy_website/
+Disallow: /resources/
+Disallow: /_gen/
+Disallow: /themes/
+
+# Sitemap location
+Sitemap: https://perezjln.github.io/sitemap.xml
+
+# Crawl delay (be respectful)
+Crawl-delay: 1

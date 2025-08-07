@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep Learning | Julien Perez - Machine Learning Research</title>
+    <link>http://localhost:1313/tags/deep-learning/</link>
+      <atom:link href="http://localhost:1313/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Deep Learning</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Deep Learning</title>
+      <link>http://localhost:1313/tags/deep-learning/</link>
+    </image>
+    
+    <item>
+      <title>Scalable Approach to Differentiable Pattern Mining with Coverage Regularization</title>
+      <link>http://localhost:1313/publication/pattern-mining-2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/pattern-mining-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Visual Representations with Caption Annotations</title>
+      <link>http://localhost:1313/publication/visual-representations-captions-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/visual-representations-captions-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gated End-to-End Memory Network</title>
+      <link>http://localhost:1313/publication/gated-memory-network/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/gated-memory-network/</guid>
+      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
+&lt;/div&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Graduate Level Instruction</title>
+      <link>http://localhost:1313/teaching/graduate-instruction/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/graduate-instruction/</guid>
+      <description>&lt;h2 id=&#34;graduate-level-instruction-2017---present&#34;&gt;Graduate Level Instruction (2017 - Present)&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Total Teaching Hours:&lt;/strong&gt; 150+ contact hours&lt;/p&gt;
+&lt;h3 id=&#34;current-institutions&#34;&gt;Current Institutions&lt;/h3&gt;
+&lt;h4 id=&#34;epita-2023---present&#34;&gt;EPITA (2023 - Present)&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Machine Learning Foundations&lt;/strong&gt;: Core principles of ML, optimization, and statistical learning&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Reinforcement Learning&lt;/strong&gt;: Advanced RL algorithms, policy optimization, and multi-agent systems&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Natural Language Processing&lt;/strong&gt;: Modern NLP techniques, transformers, and language models&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Large Language Models&lt;/strong&gt;: Architecture, training, fine-tuning, and applications of LLMs&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;centralesupélec&#34;&gt;CentraleSupélec&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Advanced Machine Learning&lt;/strong&gt;: Graduate-level course covering state-of-the-art ML techniques&lt;/li&gt;
+&lt;li&gt;Focus on theoretical foundations and practical applications in real-world scenarios&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;université-technologique-de-compiègne&#34;&gt;Université Technologique de Compiègne&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Deep Learning Applications&lt;/strong&gt;: Hands-on course in deep learning with focus on computer vision and NLP&lt;/li&gt;
+&lt;li&gt;Practical labs using PyTorch and modern deep learning frameworks&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;université-grenoble-alpes&#34;&gt;Université Grenoble Alpes&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Research Methods in AI&lt;/strong&gt;: Graduate seminar on conducting AI research&lt;/li&gt;
+&lt;li&gt;Supervision of research projects and thesis work&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;teaching-philosophy&#34;&gt;Teaching Philosophy&lt;/h3&gt;
+&lt;p&gt;My teaching approach emphasizes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Theory-Practice Balance&lt;/strong&gt;: Combining rigorous theoretical foundations with hands-on implementation&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Current Research Integration&lt;/strong&gt;: Incorporating latest research developments into coursework&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Industry Relevance&lt;/strong&gt;: Connecting academic concepts to real-world applications&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Interactive Learning&lt;/strong&gt;: Encouraging student participation and collaborative problem-solving&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;course-development&#34;&gt;Course Development&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Developed new curriculum for emerging AI technologies including LLMs and robotic learning&lt;/li&gt;
+&lt;li&gt;Created practical labs and programming assignments using modern frameworks (PyTorch, JAX, Hugging Face)&lt;/li&gt;
+&lt;li&gt;Integrated industry case studies and real-world problem-solving scenarios&lt;/li&gt;
+&lt;li&gt;Designed capstone projects connecting students with ongoing research initiatives&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;student-supervision&#34;&gt;Student Supervision&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;PhD Students&lt;/strong&gt;: Active supervision of doctoral candidates in machine learning and robotics&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Master&amp;rsquo;s Projects&lt;/strong&gt;: 15+ undergraduate and graduate project supervisions&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Research Collaborations&lt;/strong&gt;: Coordinating student involvement in industry research partnerships&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

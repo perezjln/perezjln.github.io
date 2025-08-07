@@ -33,7 +33,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Full Professor & Head of AI & Pedagogy Research Program
+role: Full Professor | Head of AI | Pedagogy Research Program
 
 # Organizations/Affiliations to display in Biography blox
 organizations:

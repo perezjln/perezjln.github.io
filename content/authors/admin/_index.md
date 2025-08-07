@@ -47,7 +47,7 @@ bio: Seasoned AI research leader with 15+ years of experience in academia and in
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:perez.jln@gmail.com'
+    url: '#contact'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/perezjln

@@ -13,6 +13,19 @@ Disallow: /resources/
 Disallow: /_gen/
 Disallow: /themes/
 
+# Disallow email harvesting bots
+User-agent: EmailCollector
+Disallow: /
+
+User-agent: EmailSiphon
+Disallow: /
+
+User-agent: WebBandit
+Disallow: /
+
+User-agent: EmailWolf
+Disallow: /
+
 # Sitemap location
 Sitemap: https://perezjln.github.io/sitemap.xml
 

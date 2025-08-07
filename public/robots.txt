@@ -1,3 +1,33 @@
 User-agent: *
+Allow: /
 
-Sitemap: http://localhost:1313/sitemap.xml
+# Allow crawling of main content areas
+Allow: /publication/
+Allow: /teaching/
+Allow: /post/
+Allow: /author/
+
+# Disallow crawling of development and build files
+Disallow: /legacy_website/
+Disallow: /resources/
+Disallow: /_gen/
+Disallow: /themes/
+
+# Disallow email harvesting bots
+User-agent: EmailCollector
+Disallow: /
+
+User-agent: EmailSiphon
+Disallow: /
+
+User-agent: WebBandit
+Disallow: /
+
+User-agent: EmailWolf
+Disallow: /
+
+# Sitemap location
+Sitemap: https://perezjln.github.io/sitemap.xml
+
+# Crawl delay (be respectful)
+Crawl-delay: 1

@@ -67,10 +67,23 @@ sections:
       title: Contact
       subtitle: ''
       text: |-
-        **Email:** perez.jln@gmail.com  
-        **Address:** 5, rue d'Italie, Paris 75013, France
+        **Professional Contact:**
         
-        Feel free to reach out for collaborations or discussions about machine learning research.
+        <div class="contact-info">
+          <span id="protected-email" 
+                class="email-protected"
+                title="Click to reveal email address">
+            Click to reveal email
+          </span>
+        </div>
+        
+        **Academic Affiliation:** EPITA & IONIS Education Group, Paris, France
+        
+        **Research Areas:** Machine Learning, Deep Learning, Reinforcement Learning, NLP, Robotics
+        
+        Feel free to reach out for research collaborations, academic discussions, or inquiries about AI and machine learning projects.
+        
+        {{ partial "email_protection.html" . }}
     design:
       columns: '1'
       background:

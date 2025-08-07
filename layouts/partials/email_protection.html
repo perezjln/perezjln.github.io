@@ -1,0 +1,40 @@
+<!-- Anti-bot email protection -->
+<script>
+function revealEmail() {
+  // Encoded email parts to prevent simple scraping
+  const parts = [
+    'cGVyZXou', // base64 encoded 'perez.'
+    'amxu',     // base64 encoded 'jln'
+    'Z21haWwu', // base64 encoded 'gmail.'
+    'Y29t'      // base64 encoded 'com'
+  ];
+  
+  // Decode and construct email
+  const email = atob(parts[0]) + atob(parts[1]) + '@' + atob(parts[2]) + atob(parts[3]);
+  
+  // Replace the click-to-reveal element
+  const element = document.getElementById('protected-email');
+  if (element) {
+    element.innerHTML = '<a href="mailto:' + email + '" class="text-blue-600 hover:text-blue-800">' + email + '</a>';
+  }
+}
+
+// Add additional bot protection
+function validateHuman() {
+  // Simple check to ensure it's not an automated request
+  return document.referrer.includes(window.location.hostname) || 
+         performance.navigation.type === 1; // Direct navigation
+}
+
+document.addEventListener('DOMContentLoaded', function() {
+  const emailElement = document.getElementById('protected-email');
+  if (emailElement && validateHuman()) {
+    emailElement.addEventListener('click', revealEmail);
+  }
+});
+</script>
+
+<!-- Honeypot for additional bot protection -->
+<div style="position: absolute; left: -9999px; opacity: 0;">
+  <input type="email" name="email_trap" tabindex="-1" autocomplete="off">
+</div>

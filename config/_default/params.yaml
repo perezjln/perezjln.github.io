@@ -71,7 +71,7 @@ features:
   math:
     enable: true
   privacy_pack:
-    enable: false
+    enable: true
   repository:
     url: 'https://github.com/perezjln/perezjln.github.io'
     content_dir: content
@@ -88,6 +88,14 @@ features:
     provider: 'mapnik'
     api_key: ''
     zoom: 15
+
+# Privacy and security settings
+privacy:
+  contact:
+    protect_email: true
+    hide_physical_address: true
+  analytics:
+    anonymize_ip: true
 
 # Custom CSS
 custom_css: ["css/custom.css"]

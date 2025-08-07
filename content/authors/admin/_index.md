@@ -35,6 +35,9 @@ highlight_name: true
 # Role/position/tagline
 role: Full Professor | Head of AI | Pedagogy Research Program
 
+# Avatar (relative to `assets/media/` folder. In 1.1 creating a folder may be necessary.)
+avatar_filename: avatar.jpg
+
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: EPITA & IONIS Education Group

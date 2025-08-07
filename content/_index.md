@@ -41,8 +41,6 @@ sections:
       title: Recent Publications
       subtitle: Latest Research in AI, Machine Learning, and Robotics
       text: |-
-        Exploring cutting-edge research in **Machine Learning**, **Deep Learning**, **Reinforcement Learning**, **Natural Language Processing**, **Robotics**, and **AI Systems**.
-        
         **Recent Highlights:**
         
         ### 2025
@@ -101,21 +99,18 @@ sections:
       text: |-
         **Professional Contact:**
         
-        <div class="contact-info">
-          <span id="protected-email" 
-                class="email-protected"
-                title="Click to reveal email address">
-            Click to reveal email
-          </span>
-        </div>
+        📧 **Email:** julien.perez@epita.fr
         
-        **Academic Affiliation:** EPITA & IONIS Education Group, Paris, France
+        **Academic Affiliation:** EPITA | IONIS Education Group, Paris, France
         
         **Research Areas:** Machine Learning, Deep Learning, Reinforcement Learning, NLP, Robotics
         
         Feel free to reach out for research collaborations, academic discussions, or inquiries about AI and machine learning projects.
         
-        {{ partial "email_protection.html" . }}
+        **Connect with me:**
+        - [Google Scholar](https://scholar.google.fr/citations?user=XneKjCsAAAAJ)
+        - [LinkedIn](https://www.linkedin.com/in/julien-perez)
+        - [GitHub](https://github.com/perezjln)
     design:
       columns: '1'
       background:

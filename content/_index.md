@@ -35,38 +35,19 @@ sections:
       background:
         color: white
         text_color_light: false
-  - block: markdown
+  - block: collection
     id: publications
     content:
       title: Recent Publications
-      subtitle: Latest Research in AI, Machine Learning, and Robotics
-      text: |-
-        **Recent Highlights:**
-        
-        ### 2025
-        **AKD: Adversarial Knowledge Distillation For Large Language Models Alignment on Coding tasks** | *Large Language Models, Knowledge Distillation, Code Generation*
-        
-        ### 2024
-        **Unsupervised Skill Discovery for Robotic Manipulation through Automatic Task Generation** | *Robotics, Skill Discovery, Manipulation*
-        
-        **SLIM: Skill Learning with Multiple Critics** | *Reinforcement Learning, Multi-Critic Networks*
-        
-        **DiffVersify: a Scalable Approach to Differentiable Pattern Mining** | *Pattern Mining, Deep Learning*
-        
-        ### 2023
-        **Safety‑Aware Unsupervised Skill Discovery** | *Safe AI, Skill Learning, Robotics*
-        
-        **LARG, Language‑based Automatic Reward and Goal Generation** | *NLP, Reward Learning, Language Models*
-        
-        ### Key Research Areas:
-        - **Machine Learning & Deep Learning:** Neural networks, optimization, representation learning
-        - **Reinforcement Learning:** Policy learning, skill discovery, safe AI, robotics control
-        - **Natural Language Processing:** Dialog systems, language models, text understanding
-        - **Computer Vision:** Visual representations, multimodal learning, robotics perception
-        - **Robotics:** Manipulation, locomotion, adaptive control systems
-        
-        [View All Publications →](/publication/)
+      subtitle: Latest research highlights
+      filters:
+        folders: [publication]
+      count: 6
+      sort_by: date
+      sort_ascending: false
     design:
+      view: date-title-summary
+      columns: 1
       background:
         color: white
   - block: collection
@@ -78,7 +59,7 @@ sections:
         folders:
           - teaching
     design:
-      view: list
+      view: card
       columns: 1
       background:
         color: white
@@ -88,22 +69,16 @@ sections:
       title: Contact
       subtitle: ''
       text: |-
-        **Professional Contact:**
-        
-        📧 **Email:** julien.perez@epita.fr
-        
-        **Academic Affiliation:** EPITA | IONIS Education Group, Paris, France
-        
-        **Research Areas:** Machine Learning, Deep Learning, Reinforcement Learning, NLP, Robotics
-        
-        Feel free to reach out for research collaborations, academic discussions, or inquiries about AI and machine learning projects.
-        
-        **Connect with me:**
+        - Email: <span id="protected-email" class="email-protected">Click to reveal</span>
+        - Affiliation: EPITA | IONIS Education Group (Paris, France)
+        - Areas: ML, DL, RL, NLP, Robotics
+
+        Connect:
         - [Google Scholar](https://scholar.google.fr/citations?user=XneKjCsAAAAJ)
         - [LinkedIn](https://www.linkedin.com/in/julien-perez)
         - [GitHub](https://github.com/perezjln)
     design:
-      columns: '1'
+      columns: 1
       background:
         color: white
 ---

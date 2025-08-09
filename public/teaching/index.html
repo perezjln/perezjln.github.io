@@ -1,6 +1,6 @@
 <!doctype html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: August 7, 2025 --><html lang="en-us" dir="ltr"
+<!-- Last Published: August 10, 2025 --><html lang="en-us" dir="ltr"
       data-wc-theme-default="light">
   
 <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
@@ -66,7 +66,7 @@
 
   
     
-    <link href="/css/custom.min.2507979f1aa79cfa9a3d89cb6d698e369c66bcdede9a8b34f040bad8fe3dd894.css" rel="stylesheet" />
+    <link href="/css/custom.min.41067703a5753cf4d0ef72573ed2233c6e70e9b7745b358f37deb15ea71d32b6.css" rel="stylesheet" />
   
 
   <script>
@@ -163,8 +163,8 @@
   
 
   
-  <link rel="icon" type="image/png" href="/media/icon_hu3247630877640252165.png" />
-  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu4166356570829923896.png" />
+  <link rel="icon" type="image/png" href="/media/icon_hu_cb46917a004be69d.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu_420a271a0a9e31be.png" />
 
   <link rel="canonical" href="http://localhost:1313/teaching/" />
 
@@ -194,8 +194,8 @@
   <meta property="og:site_name" content="Julien Perez - Machine Learning | AI Research Professor" />
   <meta property="og:url" content="http://localhost:1313/teaching/" />
   <meta property="og:title" content="Teaching | Julien Perez - Machine Learning | AI Research Professor" />
-  <meta property="og:description" content="My courses and teaching activities in AI and Machine Learning" /><meta property="og:image" content="http://localhost:1313/media/icon_hu7729264130191091259.png" />
-    <meta property="twitter:image" content="http://localhost:1313/media/icon_hu7729264130191091259.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:description" content="My courses and teaching activities in AI and Machine Learning" /><meta property="og:image" content="http://localhost:1313/media/icon_hu_c95efeb576b66663.png" />
+    <meta property="twitter:image" content="http://localhost:1313/media/icon_hu_c95efeb576b66663.png" /><meta property="og:locale" content="en-us" />
   
     
   
@@ -684,6 +684,53 @@
   
     
       
+      
+<script>
+function revealEmail() {
+  
+  const parts = [
+    'cGVyZXou', 
+    'amxu',     
+    'Z21haWwu', 
+    'Y29t'      
+  ];
+  
+  
+  const email = atob(parts[0]) + atob(parts[1]) + '@' + atob(parts[2]) + atob(parts[3]);
+  
+  
+  const element = document.getElementById('protected-email');
+  if (element) {
+    element.innerHTML = '<a href="mailto:' + email + '" class="text-blue-600 hover:text-blue-800">' + email + '</a>';
+  }
+}
+
+
+function validateHuman() {
+  
+  return document.referrer.includes(window.location.hostname) || 
+         performance.navigation.type === 1; 
+}
+
+document.addEventListener('DOMContentLoaded', function() {
+  const emailElement = document.getElementById('protected-email');
+  if (emailElement && validateHuman()) {
+    emailElement.addEventListener('click', revealEmail);
+  }
+});
+</script>
+
+
+<div style="position: absolute; left: -9999px; opacity: 0;">
+  <input type="email" name="email_trap" tabindex="-1" autocomplete="off">
+</div>
+
+
+      
+    
+  
+    
+      
       <script async defer src="https://buttons.github.io/buttons.js"></script>
 
       
@@ -700,6 +747,138 @@
     <div class="page-header ">
       
       
+      
+        
+        
+        
+          <header id="site-header" class="header">
+  <nav class="navbar px-3 flex justify-left">
+    <div class="order-0 h-100">
+      
+      <a class="navbar-brand" href="/" title="Julien Perez - Machine Learning | AI Research Professor">
+        
+      </a>
+    </div>
+    
+    <input id="nav-toggle" type="checkbox" class="hidden" />
+    <label
+      for="nav-toggle"
+      class="order-3 cursor-pointer flex items-center lg:hidden text-dark dark:text-white lg:order-1">
+      <svg id="show-button" class="h-6 fill-current block" viewBox="0 0 20 20">
+        <title>Open Menu</title>
+        <path d="M0 3h20v2H0V3z m0 6h20v2H0V9z m0 6h20v2H0V0z"></path>
+      </svg>
+      <svg id="hide-button" class="h-6 fill-current hidden" viewBox="0 0 20 20">
+        <title>Close Menu</title>
+        <polygon
+          points="11 9 22 9 22 11 11 11 11 22 9 22 9 11 -2 11 -2 9 9 9 9 -2 11 -2"
+          transform="rotate(45 10 10)"></polygon>
+      </svg>
+    </label>
+    
+
+    
+    
+    <ul
+      id="nav-menu"
+      class="navbar-nav order-3 hidden lg:flex w-full pb-6 lg:order-1 lg:w-auto lg:space-x-2 lg:pb-0 xl:space-x-8 justify-left
+      ">
+      
+      
+      
+      
+      
+      
+      <li class="nav-item">
+        <a
+          class="nav-link "
+          
+          href="/#about"
+        >About</a
+        >
+      </li>
+      
+      
+      
+      
+      
+      
+      <li class="nav-item">
+        <a
+          class="nav-link "
+          
+          href="/#publications"
+        >Publications</a
+        >
+      </li>
+      
+      
+      
+      
+      
+      
+      <li class="nav-item">
+        <a
+          class="nav-link "
+          
+          href="/#teaching"
+        >Teaching</a
+        >
+      </li>
+      
+      
+      
+      
+      
+      
+      <li class="nav-item">
+        <a
+          class="nav-link "
+          
+          href="/experience/"
+        >Experience</a
+        >
+      </li>
+      
+      
+      
+      
+      
+      
+      <li class="nav-item">
+        <a
+          class="nav-link "
+          
+          href="/#contact"
+        >Contact</a
+        >
+      </li>
+      
+      
+      
+    </ul>
+
+    <div class="order-1 ml-auto flex items-center md:order-2 lg:ml-0">
+
+      
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+    </div>
+  </nav>
+</header>
+
+
+
+        
       
     </div>
     <div class="page-body ">
@@ -864,8 +1043,25 @@
   
 
 
-<div class="container px-8 mx-auto xl:px-5 py-5 lg:py-8 max-w-screen-lg ">
-  <div class="grid gap-10 md:grid-cols-2 lg:gap-10">
+
+
+
+
+
+
+<a href=""  class="mb-5">
+  <div class="md:flex">
+    <div class="md:flex-shrink-0 overflow-hidden">
+      
+    </div>
+    <div class="p-8">
+      <div class="uppercase tracking-wide text-md text-primary-700 dark:text-primary-200 font-semibold"></div>
+      <p class="block mt-1 text-sm leading-tight font-medium text-black dark:text-white">
+        </p>
+      <p class="mt-2 text-gray-500 dark:text-gray-400 text-sm">Jan 1, 0001</p>
+    </div>
+  </div>
+</a>
 
 
   
@@ -878,63 +1074,19 @@
 
 
 
-
-<div class="group cursor-pointer">
-
-  
-  <div class="">
-    <div class="">
-      <div class="flex gap-3">
-        
-        <a href="/tags/graduate-teaching/"><span
-          class="inline-block text-xs font-medium tracking-wider uppercase mt-5 text-primary-700 dark:text-primary-300">Graduate Teaching</span></a>
-        
-      </div>
+<a href="/teaching/graduate-instruction/"  class="mb-5">
+  <div class="md:flex">
+    <div class="md:flex-shrink-0 overflow-hidden">
       
-      <h2 class="text-lg font-semibold leading-snug tracking-tight mt-2 dark:text-white"><a
-        href="/teaching/graduate-instruction/" ><span
-        class="bg-gradient-to-r from-primary-200 to-primary-100 bg-[length:0px_10px] bg-left-bottom bg-no-repeat transition-[background-size] duration-500 hover:bg-[length:100%_3px] group-hover:bg-[length:100%_10px] dark:from-primary-800 dark:to-primary-900">Graduate Level Instruction (2017 - Present)
-          </span></a>
-      </h2>
-      
-      <div class="grow"><p class="mt-2 line-clamp-3 text-sm text-gray-500 dark:text-gray-400"><a
-        href="/teaching/graduate-instruction/" >
-        Deep Learning, Reinforcement Learning, NLP, and LLMs - 150&#43; contact hours</a></p>
-      </div>
-      <div class="flex-none">
-        <div class="mt-3 flex items-center space-x-3 text-gray-500 dark:text-gray-400 cursor-default">
-          
-          
-          <div class="flex items-center gap-3">
-            
-            <div class="relative h-5 w-5 flex-shrink-0">
-              
-              
-              
-              <img alt="avatar"
-                   class="rounded-full object-cover"
-                   data-nimg="fill"
-                   decoding="async" height="50"
-                   loading="lazy"
-                   sizes="20px"
-                   src="/author/julien-perez/avatar_hu12084821049944208168.webp"
-                   style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;"
-                   width="50">
-              
-            </div>
-            <span class="truncate text-sm">Julien Perez</span>
-          </div>
-          
-          
-          <span class="text-xs text-gray-300 dark:text-gray-600">•</span>
-          
-          <time class="truncate text-sm" datetime="2023-01-01">Jan 1, 2023</time>
-        </div>
-      </div>
-
+    </div>
+    <div class="p-8">
+      <div class="uppercase tracking-wide text-md text-primary-700 dark:text-primary-200 font-semibold">Graduate Level Instruction (2017 - Present)</div>
+      <p class="block mt-1 text-sm leading-tight font-medium text-black dark:text-white">
+        Deep Learning, Reinforcement Learning, NLP, and LLMs - 150&#43; contact hours</p>
+      <p class="mt-2 text-gray-500 dark:text-gray-400 text-sm">Jan 1, 2023</p>
     </div>
   </div>
-</div>
+</a>
 
   
     
@@ -946,68 +1098,44 @@
 
 
 
-
-<div class="group cursor-pointer">
-
-  
-  <div class="">
-    <div class="">
-      <div class="flex gap-3">
-        
-        <a href="/tags/undergraduate-teaching/"><span
-          class="inline-block text-xs font-medium tracking-wider uppercase mt-5 text-primary-700 dark:text-primary-300">Undergraduate Teaching</span></a>
-        
-      </div>
+<a href="/teaching/undergraduate-instruction/"  class="mb-5">
+  <div class="md:flex">
+    <div class="md:flex-shrink-0 overflow-hidden">
       
-      <h2 class="text-lg font-semibold leading-snug tracking-tight mt-2 dark:text-white"><a
-        href="/teaching/undergraduate-instruction/" ><span
-        class="bg-gradient-to-r from-primary-200 to-primary-100 bg-[length:0px_10px] bg-left-bottom bg-no-repeat transition-[background-size] duration-500 hover:bg-[length:100%_3px] group-hover:bg-[length:100%_10px] dark:from-primary-800 dark:to-primary-900">Undergraduate Instruction (2006 - 2013)
-          </span></a>
-      </h2>
-      
-      <div class="grow"><p class="mt-2 line-clamp-3 text-sm text-gray-500 dark:text-gray-400"><a
-        href="/teaching/undergraduate-instruction/" >
-        Signal Processing, Statistics, and Programming - 850&#43; contact hours</a></p>
-      </div>
-      <div class="flex-none">
-        <div class="mt-3 flex items-center space-x-3 text-gray-500 dark:text-gray-400 cursor-default">
-          
-          
-          <div class="flex items-center gap-3">
-            
-            <div class="relative h-5 w-5 flex-shrink-0">
-              
-              
-              
-              <img alt="avatar"
-                   class="rounded-full object-cover"
-                   data-nimg="fill"
-                   decoding="async" height="50"
-                   loading="lazy"
-                   sizes="20px"
-                   src="/author/julien-perez/avatar_hu12084821049944208168.webp"
-                   style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;"
-                   width="50">
-              
-            </div>
-            <span class="truncate text-sm">Julien Perez</span>
-          </div>
-          
-          
-          <span class="text-xs text-gray-300 dark:text-gray-600">•</span>
-          
-          <time class="truncate text-sm" datetime="2006-01-01">Jan 1, 2006</time>
-        </div>
-      </div>
-
+    </div>
+    <div class="p-8">
+      <div class="uppercase tracking-wide text-md text-primary-700 dark:text-primary-200 font-semibold">Undergraduate Instruction (2006 - 2013)</div>
+      <p class="block mt-1 text-sm leading-tight font-medium text-black dark:text-white">
+        Signal Processing, Statistics, and Programming - 850&#43; contact hours</p>
+      <p class="mt-2 text-gray-500 dark:text-gray-400 text-sm">Jan 1, 2006</p>
     </div>
   </div>
-</div>
+</a>
 
   
 
+  
+
+
+
+
+
+
+
+
+<a href=""  class="mb-5">
+  <div class="md:flex">
+    <div class="md:flex-shrink-0 overflow-hidden">
+      
     </div>
-</div>
+    <div class="p-8">
+      <div class="uppercase tracking-wide text-md text-primary-700 dark:text-primary-200 font-semibold"></div>
+      <p class="block mt-1 text-sm leading-tight font-medium text-black dark:text-white">
+        </p>
+      <p class="mt-2 text-gray-500 dark:text-gray-400 text-sm">Jan 1, 0001</p>
+    </div>
+  </div>
+</a>
 
 
 </div>

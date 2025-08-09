@@ -40,7 +40,7 @@ marketing:
 # Site header
 header:
   navbar:
-    enable: false
+    enable: true
     blox: ""
     fixed_to_top: false
     show_search: false
@@ -75,7 +75,7 @@ features:
   repository:
     url: 'https://github.com/perezjln/perezjln.github.io'
     content_dir: content
-    branch: main
+  branch: master
   comment:
     provider: ''
   search:

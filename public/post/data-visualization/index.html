@@ -1,6 +1,6 @@
 <!doctype html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: August 7, 2025 --><html lang="en-us" dir="ltr"
+<!-- Last Published: August 10, 2025 --><html lang="en-us" dir="ltr"
       data-wc-theme-default="light">
   
 <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
@@ -66,7 +66,7 @@
 
   
     
-    <link href="/css/custom.min.2507979f1aa79cfa9a3d89cb6d698e369c66bcdede9a8b34f040bad8fe3dd894.css" rel="stylesheet" />
+    <link href="/css/custom.min.41067703a5753cf4d0ef72573ed2233c6e70e9b7745b358f37deb15ea71d32b6.css" rel="stylesheet" />
   
 
   <script>
@@ -161,8 +161,8 @@
   
 
   
-  <link rel="icon" type="image/png" href="/media/icon_hu3247630877640252165.png" />
-  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu4166356570829923896.png" />
+  <link rel="icon" type="image/png" href="/media/icon_hu_cb46917a004be69d.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu_420a271a0a9e31be.png" />
 
   <link rel="canonical" href="http://localhost:1313/post/data-visualization/" />
 
@@ -699,6 +699,53 @@
   
     
       
+      
+<script>
+function revealEmail() {
+  
+  const parts = [
+    'cGVyZXou', 
+    'amxu',     
+    'Z21haWwu', 
+    'Y29t'      
+  ];
+  
+  
+  const email = atob(parts[0]) + atob(parts[1]) + '@' + atob(parts[2]) + atob(parts[3]);
+  
+  
+  const element = document.getElementById('protected-email');
+  if (element) {
+    element.innerHTML = '<a href="mailto:' + email + '" class="text-blue-600 hover:text-blue-800">' + email + '</a>';
+  }
+}
+
+
+function validateHuman() {
+  
+  return document.referrer.includes(window.location.hostname) || 
+         performance.navigation.type === 1; 
+}
+
+document.addEventListener('DOMContentLoaded', function() {
+  const emailElement = document.getElementById('protected-email');
+  if (emailElement && validateHuman()) {
+    emailElement.addEventListener('click', revealEmail);
+  }
+});
+</script>
+
+
+<div style="position: absolute; left: -9999px; opacity: 0;">
+  <input type="email" name="email_trap" tabindex="-1" autocomplete="off">
+</div>
+
+
+      
+    
+  
+    
+      
       <script async defer src="https://buttons.github.io/buttons.js"></script>
 
       
@@ -715,6 +762,138 @@
     <div class="page-header ">
       
       
+      
+        
+        
+        
+          <header id="site-header" class="header">
+  <nav class="navbar px-3 flex justify-left">
+    <div class="order-0 h-100">
+      
+      <a class="navbar-brand" href="/" title="Julien Perez - Machine Learning | AI Research Professor">
+        
+      </a>
+    </div>
+    
+    <input id="nav-toggle" type="checkbox" class="hidden" />
+    <label
+      for="nav-toggle"
+      class="order-3 cursor-pointer flex items-center lg:hidden text-dark dark:text-white lg:order-1">
+      <svg id="show-button" class="h-6 fill-current block" viewBox="0 0 20 20">
+        <title>Open Menu</title>
+        <path d="M0 3h20v2H0V3z m0 6h20v2H0V9z m0 6h20v2H0V0z"></path>
+      </svg>
+      <svg id="hide-button" class="h-6 fill-current hidden" viewBox="0 0 20 20">
+        <title>Close Menu</title>
+        <polygon
+          points="11 9 22 9 22 11 11 11 11 22 9 22 9 11 -2 11 -2 9 9 9 9 -2 11 -2"
+          transform="rotate(45 10 10)"></polygon>
+      </svg>
+    </label>
+    
+
+    
+    
+    <ul
+      id="nav-menu"
+      class="navbar-nav order-3 hidden lg:flex w-full pb-6 lg:order-1 lg:w-auto lg:space-x-2 lg:pb-0 xl:space-x-8 justify-left
+      ">
+      
+      
+      
+      
+      
+      
+      <li class="nav-item">
+        <a
+          class="nav-link "
+          
+          href="/#about"
+        >About</a
+        >
+      </li>
+      
+      
+      
+      
+      
+      
+      <li class="nav-item">
+        <a
+          class="nav-link "
+          
+          href="/#publications"
+        >Publications</a
+        >
+      </li>
+      
+      
+      
+      
+      
+      
+      <li class="nav-item">
+        <a
+          class="nav-link "
+          
+          href="/#teaching"
+        >Teaching</a
+        >
+      </li>
+      
+      
+      
+      
+      
+      
+      <li class="nav-item">
+        <a
+          class="nav-link "
+          
+          href="/experience/"
+        >Experience</a
+        >
+      </li>
+      
+      
+      
+      
+      
+      
+      <li class="nav-item">
+        <a
+          class="nav-link "
+          
+          href="/#contact"
+        >Contact</a
+        >
+      </li>
+      
+      
+      
+    </ul>
+
+    <div class="order-1 ml-auto flex items-center md:order-2 lg:ml-0">
+
+      
+      
+      
+
+      
+      
+
+      
+      
+
+      
+      
+    </div>
+  </nav>
+</header>
+
+
+
+        
       
     </div>
     <div class="page-body  my-10">
@@ -1062,7 +1241,7 @@
           <div class="group inline-flex items-center text-current gap-x-1.5 mx-1">
             
             
-            <img src="/author/julien-perez/avatar_hu12084821049944208168.webp" alt="Julien Perez" class="inline-block h-4 w-4 rounded-full border border-current" loading="lazy" />
+            <img src="/author/julien-perez/avatar_hu_19b301b91a3fef22.webp" alt="Julien Perez" class="inline-block h-4 w-4 rounded-full border border-current" loading="lazy" />
             
             <div >Julien Perez</div>
           </div>
@@ -1107,7 +1286,7 @@
       
       <div class="article-header article-container featured-image-wrapper mt-4 mb-16" style="max-width: 720px; max-height: 480px;">
         <div style="position: relative">
-          <img src="/post/data-visualization/featured_hu15046892941476069000.webp" width="720" height="480" alt="" class="featured-image">
+          <img src="/post/data-visualization/featured_hu_c3d6e9499d37a049.webp" width="720" height="480" alt="" class="featured-image">
           <span class="article-header-caption">Image credit: <a href="https://unsplash.com" target="_blank" rel="noopener"><strong>Unsplash</strong></a></span>
         </div>
       </div>
@@ -1127,7 +1306,7 @@
 
 
 
-<div id="chart-416793528" class="chart"></div>
+<div id="chart-213978645" class="chart"></div>
 <script>
   async function fetchChartJSON() {
     console.debug('Hugo Blox fetching chart JSON...')
@@ -1145,7 +1324,7 @@
 
       fetchChartJSON().then(chart => {
         console.debug('Plotting chart...')
-        window.Plotly.newPlot('chart-416793528', chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot('chart-213978645', chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -1475,7 +1654,7 @@ Crash --> [*]
     width="96"
     height="96"
     alt="Julien Perez"
-  src="/author/julien-perez/avatar_hu15759053473191653537.jpg"
+  src="/author/julien-perez/avatar_hu_b5c8919fc0aacf6f.jpg"
   loading="lazy"
   />
   

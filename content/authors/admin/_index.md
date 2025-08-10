@@ -44,7 +44,7 @@ organizations:
     url: https://www.epita.fr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Seasoned AI research leader with 15+ years of experience in academia and industry. Expertise in reinforcement learning, NLP, and robotics. Proven track record of translating research into impactful products.
+bio: AI research leader with 15+ years of experience in academia and industry. Expertise in reinforcement learning, NLP, and robotics. Proven track record of translating research into impactful products.
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -236,7 +236,6 @@ languages:
 # Set to an empty list to hide the Awards section in the profile/biography block.
 awards: []
 ---
-
 ## About Me
 
 Seasoned AI research leader with 15+ years of experience in academia and industry. Currently serving as Full Professor at EPITA and Head of AI & Pedagogy Research Program at IONIS Education Group. Expertise spans reinforcement learning, natural language processing, robotics, and large language models, with a proven track record of translating cutting-edge research into impactful real-world applications.

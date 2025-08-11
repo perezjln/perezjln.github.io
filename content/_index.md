@@ -46,8 +46,8 @@ sections:
       sort_by: date
       sort_ascending: false
     design:
-      view: date-title-summary
-      columns: 1
+      view: card
+      columns: 2
       background:
         color: white
   - block: collection

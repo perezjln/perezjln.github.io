@@ -106,7 +106,7 @@ work:
     date_end: ''
     summary: |2-
       Leading a team of 6 researchers and 30 educators in developing AI-driven educational tools:
-      - Developed automatic code essay evaluation platform, boosting grading efficiency by 40%
+      - Developed automatic code essay evaluation platform
       - Architected predictive models for early student dropout detection
       - Coordinated with product teams to integrate research into learning management systems
   - position: Full Professor
@@ -117,7 +117,7 @@ work:
     date_end: ''
     summary: |2-
       Leading research and education in AI and machine learning:
-      - Research in imitation learning, reinforcement learning, and LLMs for robotics and coding
+      - Research in imitation learning, reinforcement learning, and LLMs for action taking in robotics and coding
       - Teaching graduate courses in machine learning, reinforcement learning, NLP, and LLMs
       - Supervising Ph.D. students and coordinating industry research collaborations
       - Developing curriculum for emerging AI technologies

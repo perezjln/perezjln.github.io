@@ -17,12 +17,3 @@ html { scroll-behavior: smooth; }
 #publications .summary {
 	text-align: left !important;
 }
-#publications .row,
-#publications .collection,
-#publications .grid,
-#publications .flex,
-#publications [class*="columns"],
-#publications [class*="col-"] {
-	justify-content: flex-start !important;
-	align-items: flex-start !important;
-}

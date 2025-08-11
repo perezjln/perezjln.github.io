@@ -9,9 +9,20 @@ html { scroll-behavior: smooth; }
 /* Compact publication cards */
 .article-card { padding: 1rem; }
 
-/* Left-align the Recent Publications section */
-#publications { text-align: left !important; }
+/* Left-align the Recent Publications section and its container */
+#publications,
 #publications .article-card,
 #publications .article-title,
 #publications .article-metadata,
-#publications .summary { text-align: left !important; }
+#publications .summary {
+	text-align: left !important;
+}
+#publications .row,
+#publications .collection,
+#publications .grid,
+#publications .flex,
+#publications [class*="columns"],
+#publications [class*="col-"] {
+	justify-content: flex-start !important;
+	align-items: flex-start !important;
+}

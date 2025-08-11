@@ -178,53 +178,6 @@ work:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Research Areas
-    items:
-      - name: Deep Learning
-        description: ''
-        percent: 95
-        icon: code-bracket
-      - name: Reinforcement Learning
-        description: ''
-        percent: 95
-        icon: chart-bar
-      - name: Natural Language Processing
-        description: ''
-        percent: 90
-        icon: language
-      - name: Computer Vision
-        description: ''
-        percent: 85
-        icon: eye
-      - name: Robotics
-        description: ''
-        percent: 80
-        icon: cog
-  - name: Technical Skills
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: PyTorch
-        description: ''
-        percent: 95
-        icon: code-bracket
-      - name: Python
-        description: ''
-        percent: 95
-        icon: code-bracket
-      - name: JAX
-        description: ''
-        percent: 85
-        icon: code-bracket
-      - name: TensorFlow
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: C/C++
-        description: ''
-        percent: 75
-        icon: code-bracket
 
 languages:
   - name: French

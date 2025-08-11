@@ -179,15 +179,6 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 
-languages:
-  - name: French
-    percent: 100
-  - name: English
-    percent: 95
-
-# Awards
-# Set to an empty list to hide the Awards section in the profile/biography block.
-awards: []
 ---
 ## About Me
 

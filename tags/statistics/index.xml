@@ -1,8 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Statistics | Julien Perez - Machine Learning | AI Research Professor</title><link>https://perezjln.github.io/tags/statistics/</link><atom:link href="https://perezjln.github.io/tags/statistics/index.xml" rel="self" type="application/rss+xml"/><description>Statistics</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2006 00:00:00 +0000</lastBuildDate><image><url>https://perezjln.github.io/media/icon_hu_c95efeb576b66663.png</url><title>Statistics</title><link>https://perezjln.github.io/tags/statistics/</link></image><item><title>Undergraduate Instruction (2006 - 2013)</title><link>https://perezjln.github.io/teaching/undergraduate-instruction/</link><pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate><guid>https://perezjln.github.io/teaching/undergraduate-instruction/</guid><description>&lt;h2 id="undergraduate-instruction-2006---2013">Undergraduate Instruction (2006 - 2013)&lt;/h2>
-&lt;p>&lt;strong>Total Contact Hours:&lt;/strong> 850+&lt;/p>
-&lt;h3 id="university-of-paris-est-créteil">University of Paris-Est Créteil&lt;/h3>
-&lt;p>&lt;strong>Courses:&lt;/strong> Signal Processing, Probability, Statistics
-&lt;strong>Teaching Hours:&lt;/strong> 768+&lt;/p>
-&lt;h3 id="iut-dorsay">IUT d&amp;rsquo;Orsay&lt;/h3>
-&lt;p>&lt;strong>Courses:&lt;/strong> OOP, Database Design
-&lt;strong>Student Projects:&lt;/strong> 15+ supervised&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Statistics | Julien Perez - Machine Learning | AI Research Professor</title>
+    <link>https://perezjln.github.io/tags/statistics/</link>
+      <atom:link href="https://perezjln.github.io/tags/statistics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Statistics</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2006 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://perezjln.github.io/media/icon_hu_c95efeb576b66663.png</url>
+      <title>Statistics</title>
+      <link>https://perezjln.github.io/tags/statistics/</link>
+    </image>
+    
+    <item>
+      <title>Undergraduate Instruction (2006 - 2013)</title>
+      <link>https://perezjln.github.io/teaching/undergraduate-instruction/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://perezjln.github.io/teaching/undergraduate-instruction/</guid>
+      <description>&lt;h2 id=&#34;undergraduate-instruction-2006---2013&#34;&gt;Undergraduate Instruction (2006 - 2013)&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Total Contact Hours:&lt;/strong&gt; 850+&lt;/p&gt;
+&lt;h3 id=&#34;university-of-paris-est-créteil&#34;&gt;University of Paris-Est Créteil&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Courses:&lt;/strong&gt; Signal Processing, Probability, Statistics
+&lt;strong&gt;Teaching Hours:&lt;/strong&gt; 768+&lt;/p&gt;
+&lt;h3 id=&#34;iut-dorsay&#34;&gt;IUT d&amp;rsquo;Orsay&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Courses:&lt;/strong&gt; OOP, Database Design
+&lt;strong&gt;Student Projects:&lt;/strong&gt; 15+ supervised&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

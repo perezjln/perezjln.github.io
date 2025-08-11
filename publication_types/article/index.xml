@@ -1,1 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Article | Julien Perez - Machine Learning | AI Research Professor</title><link>https://perezjln.github.io/publication_types/article/</link><atom:link href="https://perezjln.github.io/publication_types/article/index.xml" rel="self" type="application/rss+xml"/><description>Article</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate><image><url>https://perezjln.github.io/media/icon_hu_c95efeb576b66663.png</url><title>Article</title><link>https://perezjln.github.io/publication_types/article/</link></image><item><title>Non-Markovian control using gated end-to-end memory policy networks</title><link>https://perezjln.github.io/publication/non-markovian-control/</link><pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate><guid>https://perezjln.github.io/publication/non-markovian-control/</guid><description/></item><item><title>Online Learning to Sample</title><link>https://perezjln.github.io/publication/online-learning-sample/</link><pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate><guid>https://perezjln.github.io/publication/online-learning-sample/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Article | Julien Perez - Machine Learning | AI Research Professor</title>
+    <link>https://perezjln.github.io/publication_types/article/</link>
+      <atom:link href="https://perezjln.github.io/publication_types/article/index.xml" rel="self" type="application/rss+xml" />
+    <description>Article</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://perezjln.github.io/media/icon_hu_c95efeb576b66663.png</url>
+      <title>Article</title>
+      <link>https://perezjln.github.io/publication_types/article/</link>
+    </image>
+    
+    <item>
+      <title>Non-Markovian control using gated end-to-end memory policy networks</title>
+      <link>https://perezjln.github.io/publication/non-markovian-control/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://perezjln.github.io/publication/non-markovian-control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online Learning to Sample</title>
+      <link>https://perezjln.github.io/publication/online-learning-sample/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://perezjln.github.io/publication/online-learning-sample/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

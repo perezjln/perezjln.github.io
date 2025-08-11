@@ -1,23 +1,72 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Deep Learning | Julien Perez - Machine Learning | AI Research Professor</title><link>https://perezjln.github.io/tags/deep-learning/</link><atom:link href="https://perezjln.github.io/tags/deep-learning/index.xml" rel="self" type="application/rss+xml"/><description>Deep Learning</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate><image><url>https://perezjln.github.io/media/icon_hu_c95efeb576b66663.png</url><title>Deep Learning</title><link>https://perezjln.github.io/tags/deep-learning/</link></image><item><title>Scalable Approach to Differentiable Pattern Mining with Coverage Regularization</title><link>https://perezjln.github.io/publication/pattern-mining-2024/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://perezjln.github.io/publication/pattern-mining-2024/</guid><description/></item><item><title>Graduate Level Instruction (2017 - Present)</title><link>https://perezjln.github.io/teaching/graduate-instruction/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://perezjln.github.io/teaching/graduate-instruction/</guid><description>&lt;h2 id="graduate-level-instruction-2017---present">Graduate Level Instruction (2017 - Present)&lt;/h2>
-&lt;p>&lt;strong>Total Contact Hours:&lt;/strong> 150+&lt;/p>
-&lt;h3 id="epita-current">EPITA (Current)&lt;/h3>
-&lt;p>&lt;strong>Courses:&lt;/strong> Machine Learning Foundations, Reinforcement Learning, NLP, LLMs&lt;/p>
-&lt;h3 id="centralesupélec">CentraleSupélec&lt;/h3>
-&lt;p>&lt;strong>Course:&lt;/strong> Advanced Machine Learning&lt;/p>
-&lt;h3 id="université-technologique-de-compiègne">Université Technologique de Compiègne&lt;/h3>
-&lt;p>&lt;strong>Course:&lt;/strong> Deep Learning Applications&lt;/p>
-&lt;h3 id="université-grenoble-alpes">Université Grenoble Alpes&lt;/h3>
-&lt;p>&lt;strong>Course:&lt;/strong> Research Methods in AI&lt;/p></description></item><item><title>Learning Visual Representations with Caption Annotations</title><link>https://perezjln.github.io/publication/visual-representations-captions-2020/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://perezjln.github.io/publication/visual-representations-captions-2020/</guid><description/></item><item><title>Gated End-to-End Memory Network</title><link>https://perezjln.github.io/publication/gated-memory-network/</link><pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate><guid>https://perezjln.github.io/publication/gated-memory-network/</guid><description>&lt;div class="flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900">
-&lt;span class="pr-3 pt-1 text-primary-600 dark:text-primary-300">
-&lt;svg height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z"/>&lt;/svg>
-&lt;/span>
-&lt;span class="dark:text-neutral-300">Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span>
-&lt;/div>
-&lt;div class="flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900">
-&lt;span class="pr-3 pt-1 text-primary-600 dark:text-primary-300">
-&lt;svg height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">&lt;path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z"/>&lt;/svg>
-&lt;/span>
-&lt;span class="dark:text-neutral-300">Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.&lt;/span>
-&lt;/div>
-&lt;p>Add the publication&amp;rsquo;s &lt;strong>full text&lt;/strong> or &lt;strong>supplementary notes&lt;/strong> here. You can use rich formatting such as including
-.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep Learning | Julien Perez - Machine Learning | AI Research Professor</title>
+    <link>https://perezjln.github.io/tags/deep-learning/</link>
+      <atom:link href="https://perezjln.github.io/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Deep Learning</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://perezjln.github.io/media/icon_hu_c95efeb576b66663.png</url>
+      <title>Deep Learning</title>
+      <link>https://perezjln.github.io/tags/deep-learning/</link>
+    </image>
+    
+    <item>
+      <title>Scalable Approach to Differentiable Pattern Mining with Coverage Regularization</title>
+      <link>https://perezjln.github.io/publication/pattern-mining-2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://perezjln.github.io/publication/pattern-mining-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graduate Level Instruction (2017 - Present)</title>
+      <link>https://perezjln.github.io/teaching/graduate-instruction/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://perezjln.github.io/teaching/graduate-instruction/</guid>
+      <description>&lt;h2 id=&#34;graduate-level-instruction-2017---present&#34;&gt;Graduate Level Instruction (2017 - Present)&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Total Contact Hours:&lt;/strong&gt; 150+&lt;/p&gt;
+&lt;h3 id=&#34;epita-current&#34;&gt;EPITA (Current)&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Courses:&lt;/strong&gt; Machine Learning Foundations, Reinforcement Learning, NLP, LLMs&lt;/p&gt;
+&lt;h3 id=&#34;centralesupélec&#34;&gt;CentraleSupélec&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Course:&lt;/strong&gt; Advanced Machine Learning&lt;/p&gt;
+&lt;h3 id=&#34;université-technologique-de-compiègne&#34;&gt;Université Technologique de Compiègne&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Course:&lt;/strong&gt; Deep Learning Applications&lt;/p&gt;
+&lt;h3 id=&#34;université-grenoble-alpes&#34;&gt;Université Grenoble Alpes&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Course:&lt;/strong&gt; Research Methods in AI&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Learning Visual Representations with Caption Annotations</title>
+      <link>https://perezjln.github.io/publication/visual-representations-captions-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://perezjln.github.io/publication/visual-representations-captions-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gated End-to-End Memory Network</title>
+      <link>https://perezjln.github.io/publication/gated-memory-network/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://perezjln.github.io/publication/gated-memory-network/</guid>
+      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
+&lt;/div&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including 
+.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

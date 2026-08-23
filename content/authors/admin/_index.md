@@ -176,9 +176,6 @@ work:
       - Advanced reinforcement learning for SLAM in autonomous underwater vehicles
       - Published research on navigation algorithms for challenging environments
 
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
-
 ---
 ## About Me
 

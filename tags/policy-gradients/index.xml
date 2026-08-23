@@ -7,13 +7,13 @@
     <description>Policy Gradients</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://perezjln.github.io/media/icon_hu_c95efeb576b66663.png</url>
+      <url>https://perezjln.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Policy Gradients</title>
       <link>https://perezjln.github.io/tags/policy-gradients/</link>
     </image>
     
     <item>
-      <title>Non-Markovian control using gated end-to-end memory policy networks</title>
+      <title>Non-Markovian Control with Gated End-to-End Memory Policy Networks</title>
       <link>https://perezjln.github.io/publication/non-markovian-control/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://perezjln.github.io/publication/non-markovian-control/</guid>

@@ -5,15 +5,47 @@
     <link>https://perezjln.github.io/publication_types/article/</link>
       <atom:link href="https://perezjln.github.io/publication_types/article/index.xml" rel="self" type="application/rss+xml" />
     <description>Article</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 05 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://perezjln.github.io/media/icon_hu_c95efeb576b66663.png</url>
+      <url>https://perezjln.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Article</title>
       <link>https://perezjln.github.io/publication_types/article/</link>
     </image>
     
     <item>
-      <title>Non-Markovian control using gated end-to-end memory policy networks</title>
+      <title>AKD: Adversarial Knowledge Distillation for Large Language Models Alignment on Coding Tasks</title>
+      <link>https://perezjln.github.io/publication/akd-adversarial-distillation-2025/</link>
+      <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://perezjln.github.io/publication/akd-adversarial-distillation-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Skill Discovery for Robotic Manipulation through Automatic Task Generation</title>
+      <link>https://perezjln.github.io/publication/unsupervised-skill-discovery-2024/</link>
+      <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://perezjln.github.io/publication/unsupervised-skill-discovery-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SLIM: Skill Learning with Multiple Critics</title>
+      <link>https://perezjln.github.io/publication/slim-skill-learning-2024/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://perezjln.github.io/publication/slim-skill-learning-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LARG, Language-based Automatic Reward and Goal Generation</title>
+      <link>https://perezjln.github.io/publication/larg-reward-goal-generation-2023/</link>
+      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://perezjln.github.io/publication/larg-reward-goal-generation-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-Markovian Control with Gated End-to-End Memory Policy Networks</title>
       <link>https://perezjln.github.io/publication/non-markovian-control/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://perezjln.github.io/publication/non-markovian-control/</guid>

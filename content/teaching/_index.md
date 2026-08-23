@@ -13,7 +13,7 @@ summary: My courses and teaching activities in AI and Machine Learning
 type: landing
 
 cascade:
-  - _target:
+  - target:
       kind: page
     params:
       show_breadcrumb: true

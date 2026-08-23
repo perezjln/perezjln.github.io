@@ -28,7 +28,7 @@ banner:
 *Ilyas Oulkadda, Julien Perez*  
 CoRR abs/2505.06267 (2025)  
 **Keywords:** Large Language Models, Knowledge Distillation, Adversarial Training, Code Generation, LLM Alignment  
-[Paper](https://dblp.org)
+[Paper](https://arxiv.org/abs/2505.06267)
 
 ### 2024
 
@@ -36,13 +36,13 @@ CoRR abs/2505.06267 (2025)
 *Paul Jansonnie, Bingbing Wu, Julien Perez, Jan Peters*  
 Humanoids 2024; also preprint CoRR abs/2410.04855  
 **Keywords:** Robotics, Unsupervised Learning, Skill Discovery, Manipulation, Task Generation  
-[Paper](https://dblp.org)
+[Paper](https://arxiv.org/abs/2410.04855)
 
 **SLIM: Skill Learning with Multiple Critics**  
 *David Emukpere, Bingbing Wu, Julien Perez, Jean‑Michel Renders*  
 ICRA 2024; also CoRR abs/2402.00823  
 **Keywords:** Reinforcement Learning, Skill Learning, Multi-Critic Networks, Robotics  
-[Paper](https://dblp.org)
+[Paper](https://arxiv.org/abs/2402.00823)
 
 **Attention‑Based Cloth Manipulation from Model‑free Topological Representation**  
 *Kevin Galassi, Bingbing Wu, Julien Perez, Gianluca Palli, Jean‑Michel Renders*  
@@ -54,7 +54,7 @@ ICRA 2024
 *Thibaut Chataing, Julien Perez, Marc Plantevit, Céline Robardet*  
 ECML/PKDD (6) 2024  
 **Keywords:** Pattern Mining, Differentiable Programming, Deep Learning, Data Mining, Regularization  
-[Paper](https://dblp.org)
+[Paper](https://doi.org/10.1007/978-3-031-70365-2_24)
 
 ### 2023
 
@@ -68,19 +68,19 @@ Humanoids 2023
 *Sunin Kim, Jaewoon Kwon, Taeyoon Lee, Younghyo Park, Julien Perez*  
 ICRA 2023  
 **Keywords:** Reinforcement Learning, Safety, Skill Discovery, Unsupervised Learning, Robotics  
-[Paper](https://dblp.org)
+[Paper](https://doi.org/10.1109/ICRA48891.2023.10160985)
 
 **LARG, Language‑based Automatic Reward and Goal Generation**  
 *Julien Perez, Denys Proux, Claude Roux, Michael Niemaz*  
 CoRR abs/2306.10985 (2023)  
 **Keywords:** Natural Language Processing, Reward Learning, Goal Generation, Reinforcement Learning, Language Models  
-[Paper](https://dblp.org)
+[Paper](https://arxiv.org/abs/2306.10985)
 
 **Controlling the Solo12 Quadruped Robot with Deep Reinforcement Learning**  
 *Michel Aractingi, Pierre‑Alexandre Léziart, Thomas Flayols, Julien Perez, Tomi Silander, Philippe Souères*  
 CoRR abs/2309.16683 (2023)  
 **Keywords:** Deep Reinforcement Learning, Quadruped Control, Robotics, Neural Networks, Locomotion  
-[Paper](https://dblp.org)
+[Paper](https://arxiv.org/abs/2309.16683)
 
 ### 2021
 
@@ -100,13 +100,13 @@ EACL 2021: 1792–1810
 *Christopher R. Dance, Julien Perez, Théo Cachet*  
 ICML 2021: 2376–2387  
 **Keywords:** Reinforcement Learning, Imitation Learning, Few-Shot Learning, Demonstrations, Machine Learning  
-[Paper](https://dblp.org)
+[Paper](http://proceedings.mlr.press/v139/dance21a.html)
 
 **Learning Reachable Manifold and Inverse Mapping for a Redundant Robot manipulator**  
 *Seungsu Kim, Julien Perez*  
 ICRA 2021: 4731–4737  
 **Keywords:** Robotics, Manifold Learning, Inverse Kinematics, Robot Manipulation, Machine Learning  
-[Paper](https://dblp.org)
+[Paper](https://doi.org/10.1109/ICRA48506.2021.9561589)
 
 ### 2020
 
@@ -114,7 +114,7 @@ ICRA 2021: 4731–4737
 *Mert Bülent Sariyildiz, Julien Perez, Diane Larlus*  
 ECCV (8) 2020: 153–170; also CoRR abs/2008.01392  
 **Keywords:** Computer Vision, Visual Representations, Caption Learning, Deep Learning, Multimodal Learning  
-[Paper](https://dblp.org)
+[Paper](https://arxiv.org/abs/2008.01392)
 
 ### 2019
 
@@ -134,7 +134,7 @@ FLAIRS 2019: 203–208
 *Koichiro Yoshino, Chiori Hori, Julien Perez, et al.*  
 CoRR abs/1901.03461 (2019)  
 **Keywords:** Dialog Systems, Conversational AI, Natural Language Processing, Technology Challenge, Evaluation  
-[Paper](https://dblp.org)
+[Paper](https://arxiv.org/abs/1901.03461)
 
 ### 2018
 
@@ -142,7 +142,7 @@ CoRR abs/1901.03461 (2019)
 *Quentin Grail, Julien Perez*  
 CoRR abs/1810.12196 (2018)  
 **Keywords:** Natural Language Processing, Opinion Mining, Question Answering, Dataset, Sentiment Analysis  
-[Paper](https://dblp.org)
+[Paper](https://arxiv.org/abs/1810.12196)
 
 ### 2017
 
@@ -150,7 +150,7 @@ CoRR abs/1810.12196 (2018)
 *Fei Liu, Julien Perez*  
 EACL (1) 2017: 1–10  
 **Keywords:** Memory Networks, Deep Learning, Natural Language Processing, Gating Mechanisms, Neural Networks  
-[Paper](https://dblp.org)
+[Paper](https://aclanthology.org/E17-1001/)
 
 **Dialog state tracking, a machine reading approach using Memory Network**  
 *Julien Perez, Fei Liu*  
@@ -174,7 +174,7 @@ DSMM@SIGMOD 2017: 11:1–11:6
 *Julien Perez, Tomi Silander*  
 CoRR abs/1705.10993 (2017)  
 **Keywords:** Reinforcement Learning, Non-Markovian Control, Memory Networks, Policy Networks, Control Theory  
-[Paper](https://dblp.org)
+[Paper](https://arxiv.org/abs/1705.10993)
 
 ### 2016
 
@@ -206,25 +206,25 @@ SemEval@NAACL‑HLT 2016: 277–281
 *Julien Perez*  
 CoRR abs/1606.04052 (2016)  
 **Keywords:** Dialog Systems, State Tracking, Memory Networks, Machine Reading, Neural Networks  
-[Paper](https://dblp.org)
+[Paper](https://arxiv.org/abs/1606.04052)
 
 **Spectral decomposition method of dialog state tracking via collective matrix factorization**  
 *Julien Perez*  
 CoRR abs/1606.05286 (2016)  
 **Keywords:** Dialog Systems, State Tracking, Spectral Methods, Matrix Factorization, Machine Learning  
-[Paper](https://dblp.org)
+[Paper](https://arxiv.org/abs/1606.05286)
 
 **Gated End‑to‑End Memory Networks**  
 *Fei Liu, Julien Perez*  
 CoRR abs/1610.04211 (2016)  
 **Keywords:** Memory Networks, Gating Mechanisms, Deep Learning, Neural Networks, Machine Learning  
-[Paper](https://dblp.org)
+[Paper](https://arxiv.org/abs/1610.04211)
 
 **A Language‑independent and Compositional Model for Personality Trait Recognition from Short Texts**  
 *Fei Liu, Julien Perez, Scott Nowson*  
 CoRR abs/1610.04345 (2016)  
 **Keywords:** Natural Language Processing, Personality Recognition, Compositional Models, Text Analysis, Machine Learning  
-[Paper](https://dblp.org)
+[Paper](https://arxiv.org/abs/1610.04345)
 
 ### 2015
 
@@ -244,7 +244,7 @@ EMNLP 2015: 1102–1108
 *Guillaume Bouchard, Théo Trouillon, Julien Perez, Adrien Gaidon*  
 CoRR abs/1506.09016 (2015)  
 **Keywords:** Optimization, Stochastic Gradient Descent, Online Learning, Sampling, Machine Learning  
-[Paper](https://dblp.org)
+[Paper](https://arxiv.org/abs/1506.09016)
 
 ### 2014
 

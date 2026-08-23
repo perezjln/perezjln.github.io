@@ -1,12 +1,12 @@
 ---
-title: "Scalable Approach to Differentiable Pattern Mining with Coverage Regularization"
+title: "DiffVersify: a Scalable Approach to Differentiable Pattern Mining with Coverage Regularization"
 authors:
-- T. Chataing
+- Thibaut Chataing
 - Julien Perez
-- M. Plantevit
-- C. Robardet
+- Marc Plantevit
+- Céline Robardet
 date: "2024-01-01"
-doi: ""
+doi: "10.1007/978-3-031-70365-2_24"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-01-01T00:00:00Z"
@@ -17,7 +17,7 @@ publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Pacific-Asia Conference on Knowledge Discovery and Data Mining"
+publication: "European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases, 407-422"
 publication_short: "PKDD 2024"
 
 abstract: "This paper presents a novel scalable approach to differentiable pattern mining that incorporates coverage regularization. The method enables end-to-end learning of pattern mining tasks while maintaining computational efficiency on large-scale datasets. Our approach demonstrates significant improvements over traditional pattern mining techniques by leveraging modern deep learning optimization strategies."
@@ -36,7 +36,6 @@ tags:
 - Large-Scale Data
 - Optimization
 
-keywords:
 keywords:
 - "Pattern Mining"
 - "Deep Learning"

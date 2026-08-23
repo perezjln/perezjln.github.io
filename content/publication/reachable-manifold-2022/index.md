@@ -1,13 +1,13 @@
 ---
-title: "Reachable Manifold and Inverse Mapping Training for Robots"
+title: "Learning Reachable Manifold and Inverse Mapping for a Redundant Robot Manipulator"
 authors:
-- S. Kim
+- Seungsu Kim
 - Julien Perez
-date: "2022-01-01"
-doi: ""
+date: "2021-01-01"
+doi: "10.1109/ICRA48506.2021.9561589"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-01-01T00:00:00Z"
+publishDate: "2021-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -15,8 +15,8 @@ publishDate: "2022-01-01T00:00:00Z"
 publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IEEE International Conference on Robotics and Automation"
-publication_short: "ICRA 2022"
+publication: "IEEE International Conference on Robotics and Automation, 4731-4737"
+publication_short: "ICRA 2021"
 
 abstract: "This paper presents a novel approach for training robotic systems using reachable manifold representations and inverse mapping techniques. We develop methods that enable robots to learn complex manipulation tasks by understanding the geometric constraints of their workspace and efficiently mapping between task space and configuration space. Our approach demonstrates improved performance in dexterous manipulation and planning tasks."
 

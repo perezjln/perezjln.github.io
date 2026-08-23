@@ -2,7 +2,6 @@
 title: "Spectral decomposition method of dialog state tracking via collective matrix factorization"
 authors:
 - Julien Perez
-- Fei Liu
 date: "2016-01-01"
 doi: ""
 

@@ -1,10 +1,13 @@
 ---
-title: "Safe Skill Discovery for Robotic Manipulation"
+title: "Safety-Aware Unsupervised Skill Discovery"
 authors:
-- T. Lee
+- Sunin Kim
+- Jaewoon Kwon
+- Taeyoon Lee
+- Younghyo Park
 - Julien Perez
 date: "2023-01-01"
-doi: ""
+doi: "10.1109/ICRA48891.2023.10160985"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-01-01T00:00:00Z"
@@ -15,7 +18,7 @@ publishDate: "2023-01-01T00:00:00Z"
 publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IEEE International Conference on Robotics and Automation"
+publication: "IEEE International Conference on Robotics and Automation, 894-900"
 publication_short: "ICRA 2023"
 
 abstract: "This paper introduces a novel approach for safe skill discovery in robotic manipulation tasks. We develop algorithms that enable robots to autonomously discover new manipulation skills while ensuring safety constraints are maintained throughout the learning process. Our method combines reinforcement learning with safety-aware exploration strategies to achieve robust skill acquisition in real-world robotic scenarios."

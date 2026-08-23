@@ -1,8 +1,8 @@
 ---
-title: "Non-Markovian control using gated end-to-end memory policy networks"
+title: "Non-Markovian Control with Gated End-to-End Memory Policy Networks"
 authors:
 - Julien Perez
-- Fei Liu
+- Tomi Silander
 date: "2017-01-01"
 doi: ""
 

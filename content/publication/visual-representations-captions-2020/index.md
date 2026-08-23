@@ -37,8 +37,6 @@ tags:
 
 keywords:
 - "Computer Vision"
-keywords:
-- "Computer Vision"
 - "Visual Representations"
 - "Caption Learning"
 - "Deep Learning"
